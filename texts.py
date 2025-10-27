@@ -1,7 +1,5 @@
 import os
 import re
-import requests
-from spellchecker import SpellChecker
 from PIL import Image, ImageSequence
 import pytesseract
 from concurrent.futures import ProcessPoolExecutor, as_completed
@@ -58,7 +56,6 @@ def extract_text_from_gif(gif_path, max_frames=10):
 
 def process_all_gifs():
     gifs = [os.path.join(gif_folder, f) for f in os.listdir(gif_folder) if f.lower().endswith(".gif")]
-    # gifs=[os.path.join(gif_folder, "chEfCilddB5lUQ0eKq.gif")]
 
     with (ProcessPoolExecutor() as executor):
         futures = {executor.submit(extract_text_from_gif, gif): gif for gif in gifs}
