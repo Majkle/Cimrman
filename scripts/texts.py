@@ -5,8 +5,8 @@ import pytesseract
 from concurrent.futures import ProcessPoolExecutor, as_completed
 
 # Paths
-gif_folder = "data/gifs"
-output_folder = "data/gif_texts"
+gif_folder = "../data/gifs"
+output_folder = "../data/gif_texts"
 os.makedirs(output_folder, exist_ok=True)
 
 # Tesseract path

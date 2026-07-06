@@ -6,9 +6,9 @@ from glob import glob
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # === CONFIG ===
-FEED_DIR = "data/feed"
-OUTPUT_DIR = "gifs"
-TAGS_DIR = "data/gif_tags"
+FEED_DIR = "../data/feed"
+OUTPUT_DIR = "../data/gifs"
+TAGS_DIR = "../data/gif_tags"
 MAX_WORKERS = 10
 RETRY_LIMIT = 3
 

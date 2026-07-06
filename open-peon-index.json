@@ -1,0 +1,466 @@
+[
+  {
+    "file": "data/mp3/J1RWLAAKm5Y6aDtjSi.mp3",
+    "label": "konce tomu není",
+    "categories": [
+      "task.progress"
+    ]
+  },
+  {
+    "file": "data/mp3/JPrP6emi4sXZCxet1s.mp3",
+    "label": "no sakra",
+    "categories": [
+      "task.error"
+    ]
+  },
+  {
+    "file": "data/mp3/JQw7F8cJOMwOJU3VoE.mp3",
+    "label": "nechte si ty svý laický rady",
+    "categories": [
+      "input.required"
+    ]
+  },
+  {
+    "file": "data/mp3/JmbAoUtabeuDSvqe3m.mp3",
+    "label": "řekni něco",
+    "categories": [
+      "input.required"
+    ]
+  },
+  {
+    "file": "data/mp3/KESYKxJI72r1v4ApDb.mp3",
+    "label": "jsem osel",
+    "categories": [
+      "task.error"
+    ]
+  },
+  {
+    "file": "data/mp3/KeVkJXjUN655TvLYYN.mp3",
+    "label": "vše se nakonec v dobré zvrátilo",
+    "categories": [
+      "task.complete"
+    ]
+  },
+  {
+    "file": "data/mp3/KxnXEMefkNkwRNesdo.mp3",
+    "label": "nepouštět lehkomyslně slova do větru",
+    "categories": [
+      "session.start"
+    ]
+  },
+  {
+    "file": "data/mp3/L40cFMX3nT2s5HuNHi.mp3",
+    "label": "to každý ví",
+    "categories": [
+      "task.acknowledge"
+    ]
+  },
+  {
+    "file": "data/mp3/L4CIP0a3EIbk3U6sze.mp3",
+    "label": "taktoje krásné neštěstí",
+    "categories": [
+      "task.acknowledge"
+    ]
+  },
+  {
+    "file": "data/mp3/L4StMYETODnxugvy35.mp3",
+    "label": "polární noc má zvláštní moc",
+    "categories": [
+      "task.progress"
+    ]
+  },
+  {
+    "file": "data/mp3/L4Ub4QZhxXQpPJZHO8.mp3",
+    "label": "neplačte sami jste si to zavinili",
+    "categories": [
+      "resource.limit",
+      "user.spam"
+    ]
+  },
+  {
+    "file": "data/mp3/LrS5VPyu6IcK6eqVZZ.mp3",
+    "label": "máto šťastný konec",
+    "categories": [
+      "task.complete"
+    ]
+  },
+  {
+    "file": "data/mp3/PlZzLntMHB15N1O7Os.mp3",
+    "label": "mlčte",
+    "categories": [
+      "user.spam"
+    ]
+  },
+  {
+    "file": "data/mp3/Q9w23jZm7GSm7kcnGB.mp3",
+    "label": "zlý nepěkná věc",
+    "categories": [
+      "task.error"
+    ]
+  },
+  {
+    "file": "data/mp3/QTDWDQVpfnm09GU4YG.mp3",
+    "label": "ho dveřmi vrátí se ti oknem",
+    "categories": [
+      "session.end",
+      "task.progress"
+    ]
+  },
+  {
+    "file": "data/mp3/QsbDtuXEUKYnsYCNvI.mp3",
+    "label": "ty jsi nějakej zvědavej hele",
+    "categories": [
+      "task.acknowledge"
+    ]
+  },
+  {
+    "file": "data/mp3/QsykpMBoRP5cVgeWCE.mp3",
+    "label": "vleče se to",
+    "categories": [
+      "task.progress"
+    ]
+  },
+  {
+    "file": "data/mp3/Qxqu6Le5hnpNMFtHMR.mp3",
+    "label": "s tímedle",
+    "categories": [
+      "task.acknowledge"
+    ]
+  },
+  {
+    "file": "data/mp3/S7KqPhcJVfu8Hao61n.mp3",
+    "label": "nechoďte ještě",
+    "categories": [
+      "session.end"
+    ]
+  },
+  {
+    "file": "data/mp3/SVTduKO2op48W6PF8h.mp3",
+    "label": "pomoc",
+    "categories": [
+      "task.error",
+      "input.required"
+    ]
+  },
+  {
+    "file": "data/mp3/SuHRzEqaGQSD6MJ5oW.mp3",
+    "label": "s budoucnost patří aluminiu",
+    "categories": [
+      "task.complete"
+    ]
+  },
+  {
+    "file": "data/mp3/TGLI7c0LdmCHuxm3hm.mp3",
+    "label": "my si na to příště dáme pozor",
+    "categories": [
+      "task.error"
+    ]
+  },
+  {
+    "file": "data/mp3/UoMYMvB4fL13gKqwvM.mp3",
+    "label": "čekáme na další rozkazy",
+    "categories": [
+      "input.required"
+    ]
+  },
+  {
+    "file": "data/mp3/UrySHfXZQhH01Mu6dg.mp3",
+    "label": "poblil jsem se",
+    "categories": [
+      "task.error"
+    ]
+  },
+  {
+    "file": "data/mp3/Vzr5bX7785rvCeUceQ.mp3",
+    "label": "co tím chceš říct",
+    "categories": [
+      "input.required"
+    ]
+  },
+  {
+    "file": "data/mp3/W2WtiFplx1dG5ZXVH4.mp3",
+    "label": "srabe",
+    "categories": [
+      "task.complete"
+    ]
+  },
+  {
+    "file": "data/mp3/WRRGu6YxbbOWnVc6wk.mp3",
+    "label": "i když je to irelevantní",
+    "categories": [
+      "input.required"
+    ]
+  },
+  {
+    "file": "data/mp3/WV9b4p1bGxXMW5h1xd.mp3",
+    "label": "ň vím že jsi tady",
+    "categories": [
+      "task.progress"
+    ]
+  },
+  {
+    "file": "data/mp3/Wsp6UnprXCLtgCvHFo.mp3",
+    "label": "je to taková hloupost",
+    "categories": [
+      "task.acknowledge",
+      "input.required"
+    ]
+  },
+  {
+    "file": "data/mp3/XCgvvSpEqeY7PVZMBO.mp3",
+    "label": "ní hej hola hej hola",
+    "categories": [
+      "task.complete"
+    ]
+  },
+  {
+    "file": "data/mp3/XZgeQHl4zAnmmh1vi3.mp3",
+    "label": "to už taky hodně starších lidí zapomnělo",
+    "categories": [
+      "task.acknowledge"
+    ]
+  },
+  {
+    "file": "data/mp3/Xb6Q5o577D2iGeIpIM.mp3",
+    "label": "tak končí naše komedie",
+    "categories": [
+      "session.end"
+    ]
+  },
+  {
+    "file": "data/mp3/XcA8aUIj3v2cAcXGOr.mp3",
+    "label": "kdo to mohl tušit",
+    "categories": [
+      "input.required"
+    ]
+  },
+  {
+    "file": "data/mp3/XcS3bmwCVS5gC3fxOR.mp3",
+    "label": "dals",
+    "categories": [
+      "resource.limit"
+    ]
+  },
+  {
+    "file": "data/mp3/YqVHRSjankMAqfCIZ4.mp3",
+    "label": "já jak se napiju",
+    "categories": [
+      "task.complete",
+      "task.error"
+    ]
+  },
+  {
+    "file": "data/mp3/YqyxGpDneZquVvYq21.mp3",
+    "label": "uvidíte jaké vám dám kapky",
+    "categories": [
+      "task.acknowledge"
+    ]
+  },
+  {
+    "file": "data/mp3/Z8kZiO7WjGD5Tou7qM.mp3",
+    "label": "úsudek já mám slabej",
+    "categories": [
+      "input.required"
+    ]
+  },
+  {
+    "file": "data/mp3/ZBiZoRBJq5lUckLdOZ.mp3",
+    "label": "nadešla konečně vytoužená chvíle",
+    "categories": [
+      "task.complete"
+    ]
+  },
+  {
+    "file": "data/mp3/cj8BWpw2jSeoq8Vj7Q.mp3",
+    "label": "to je odvážné",
+    "categories": [
+      "task.acknowledge"
+    ]
+  },
+  {
+    "file": "data/mp3/dZuBqAHcMPBiZdQ1Ob.mp3",
+    "label": "do prdele to je mi smutno",
+    "categories": [
+      "task.error"
+    ]
+  },
+  {
+    "file": "data/mp3/dtCbMqCJYAXK0iCvKV.mp3",
+    "label": "nemá talent",
+    "categories": [
+      "task.acknowledge"
+    ]
+  },
+  {
+    "file": "data/mp3/dzI4yQ6lnUI9kYvoa9.mp3",
+    "label": "já bych si s dovolením také vzal",
+    "categories": [
+      "resource.limit"
+    ]
+  },
+  {
+    "file": "data/mp3/eGNmwRMdUQ5YT7TCcb.mp3",
+    "label": "podej mi hůl",
+    "categories": [
+      "input.required"
+    ]
+  },
+  {
+    "file": "data/mp3/eGNsPYFS3NA4TRA5e8.mp3",
+    "label": "dobyt",
+    "categories": [
+      "task.complete"
+    ]
+  },
+  {
+    "file": "data/mp3/ejDwEDlZSEuwaKnhgv.mp3",
+    "label": "nic novýho nerozjíždět",
+    "categories": [
+      "resource.limit"
+    ]
+  },
+  {
+    "file": "data/mp3/fXmnXGQOkqTLLilhKe.mp3",
+    "label": "co ty na to maryšo",
+    "categories": [
+      "task.complete"
+    ]
+  },
+  {
+    "file": "data/mp3/fqbr4NqjewYxcswliK.mp3",
+    "label": "přeji vám dobrý den",
+    "categories": [
+      "session.start"
+    ]
+  },
+  {
+    "file": "data/mp3/ft5WYiQmrM7hsT7B4o.mp3",
+    "label": "pohádka pěkně končí",
+    "categories": [
+      "task.complete",
+      "session.end"
+    ]
+  },
+  {
+    "file": "data/mp3/h4aNvBSMJM1tEKaWsc.mp3",
+    "label": "rozhodnutí padlo",
+    "categories": [
+      "task.complete"
+    ]
+  },
+  {
+    "file": "data/mp3/h7AMklW1awSJiy6xio.mp3",
+    "label": "že vy jste zase pil",
+    "categories": [
+      "task.acknowledge"
+    ]
+  },
+  {
+    "file": "data/mp3/hrM7jsJRCFSWWBgow8.mp3",
+    "label": "tak to vám nezapomenu",
+    "categories": [
+      "session.end"
+    ]
+  },
+  {
+    "file": "data/mp3/hvk96U5zCL9AGxwnEV.mp3",
+    "label": "tq chci vidět tedy",
+    "categories": [
+      "input.required"
+    ]
+  },
+  {
+    "file": "data/mp3/iebqsCtweufTT6ZsST.mp3",
+    "label": "co byste po mně chtěli",
+    "categories": [
+      "input.required"
+    ]
+  },
+  {
+    "file": "data/mp3/jOn57YvrVdNk4RdVZG.mp3",
+    "label": "zase vypli proud",
+    "categories": [
+      "task.error",
+      "resource.limit",
+      "session.end"
+    ]
+  },
+  {
+    "file": "data/mp3/jUFHeb6500OCt5P5kb.mp3",
+    "label": "teď přijde to hlavní",
+    "categories": [
+      "task.complete"
+    ]
+  },
+  {
+    "file": "data/mp3/jriamHJBvjsPsPgvMM.mp3",
+    "label": "stručně a jasně",
+    "categories": [
+      "session.start"
+    ]
+  },
+  {
+    "file": "data/mp3/kFCf6z8sgebkXySL1Y.mp3",
+    "label": "nevíme sice nic ale zato to víme správně",
+    "categories": [
+      "task.complete"
+    ]
+  },
+  {
+    "file": "data/mp3/kGF6TQ1oE62PlAhDnA.mp3",
+    "label": "tomu jde jenom o bohatství",
+    "categories": [
+      "resource.limit"
+    ]
+  },
+  {
+    "file": "data/mp3/kfG01Vo7d2U29c6jM1.mp3",
+    "label": "čech se přizpůsobí",
+    "categories": [
+      "input.required"
+    ]
+  },
+  {
+    "file": "data/mp3/kg7SsvxJOtCMU4ysWe.mp3",
+    "label": "tam tam je chyba",
+    "categories": [
+      "task.error"
+    ]
+  },
+  {
+    "file": "data/mp3/kyjHJReK27COhDRCJy.mp3",
+    "label": "dovolíte abych vám potřásl pravicí",
+    "categories": [
+      "session.start"
+    ]
+  },
+  {
+    "file": "data/mp3/llVOKniK4iETq6JKsl.mp3",
+    "label": "nevycházím údivu",
+    "categories": [
+      "task.acknowledge"
+    ]
+  },
+  {
+    "file": "data/mp3/loRXGmYNL7LRufotHv.mp3",
+    "label": "very crazy",
+    "categories": [
+      "user.spam",
+      "task.progress"
+    ]
+  },
+  {
+    "file": "data/mp3/mCmjRE6Pkg8UKntBjT.mp3",
+    "label": "nerad to říkám ale musím si postěžovat",
+    "categories": [
+      "task.error"
+    ]
+  },
+  {
+    "file": "data/mp3/mFqD1N0sqB9WS3mTgg.mp3",
+    "label": "já myslím že je to nesmysl",
+    "categories": [
+      "task.acknowledge"
+    ]
+  }
+]

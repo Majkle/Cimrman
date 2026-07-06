@@ -1,0 +1,4445 @@
+{
+	"count": null,
+	"next": null,
+	"previous": "https://giphy.com/api/v4/channels/26940091/feed?offset=300&limit=100",
+	"results": [
+		{
+			"id": "mDTDMVLjE27kyue7US",
+			"title": "Ceskatelevize Fail GIF",
+			"images": {
+				"hd": {
+					"width": 1080,
+					"height": 1080,
+					"mp4": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/giphy-hd.mp4",
+					"mp4_size": 3757883
+				},
+				"looping": {
+					"mp4": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/giphy-loop.mp4",
+					"mp4_size": 2905006
+				},
+				"source": {
+					"url": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/source.mp4",
+					"width": 1920,
+					"height": 1920,
+					"size": 8983265
+				},
+				"downsized": {
+					"url": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/giphy-downsized.gif",
+					"width": 480,
+					"height": 480,
+					"size": 1903224
+				},
+				"downsized_large": {
+					"url": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 2411369
+				},
+				"downsized_medium": {
+					"url": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 2411369
+				},
+				"downsized_small": {
+					"width": 400,
+					"height": 400,
+					"mp4": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/giphy-downsized-small.mp4",
+					"mp4_size": 180080
+				},
+				"downsized_still": {
+					"url": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/giphy-downsized_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 51162
+				},
+				"fixed_height": {
+					"url": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/200.gif",
+					"width": 200,
+					"height": 200,
+					"size": 495011,
+					"mp4": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/200.mp4",
+					"mp4_size": 78653,
+					"webp": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/200.webp",
+					"webp_size": 165064
+				},
+				"fixed_height_downsampled": {
+					"url": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/200_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 64175,
+					"webp": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/200_d.webp",
+					"webp_size": 41954
+				},
+				"fixed_height_small": {
+					"url": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/100.gif",
+					"width": 100,
+					"height": 100,
+					"size": 162514,
+					"mp4": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/100.mp4",
+					"mp4_size": 23649,
+					"webp": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/100.webp",
+					"webp_size": 50366
+				},
+				"fixed_height_small_still": {
+					"url": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/100_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 9348
+				},
+				"fixed_height_still": {
+					"url": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/200_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 27083
+				},
+				"fixed_width": {
+					"url": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/200w.gif",
+					"width": 200,
+					"height": 200,
+					"size": 495011,
+					"mp4": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/200w.mp4",
+					"mp4_size": 78653,
+					"webp": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/200w.webp",
+					"webp_size": 134202
+				},
+				"fixed_width_downsampled": {
+					"url": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/200w_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 64175,
+					"webp": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/200w_d.webp",
+					"webp_size": 41954
+				},
+				"fixed_width_small": {
+					"url": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/100w.gif",
+					"width": 100,
+					"height": 100,
+					"size": 162514,
+					"mp4": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/100w.mp4",
+					"mp4_size": 23649,
+					"webp": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/100w.webp",
+					"webp_size": 50366
+				},
+				"fixed_width_small_still": {
+					"url": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/100w_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 9348
+				},
+				"fixed_width_still": {
+					"url": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/200w_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 27083
+				},
+				"original": {
+					"url": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 2411369,
+					"frames": 44,
+					"hash": "39e5da6c464926aef3b1d7619307e36e",
+					"mp4": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/giphy.mp4",
+					"mp4_size": 590885,
+					"webp": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/giphy.webp",
+					"webp_size": 639778
+				},
+				"original_mp4": {
+					"width": 480,
+					"height": 480,
+					"mp4": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/giphy.mp4",
+					"mp4_size": 590885
+				},
+				"original_still": {
+					"url": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/giphy_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 142721
+				},
+				"preview": {
+					"width": 150,
+					"height": 150,
+					"mp4": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/giphy-preview.mp4",
+					"mp4_size": 33122
+				},
+				"preview_gif": {
+					"url": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/giphy-preview.gif",
+					"width": 100,
+					"height": 100,
+					"size": 36712
+				},
+				"preview_webp": {
+					"url": "https://media0.giphy.com/media/mDTDMVLjE27kyue7US/giphy-preview.webp",
+					"width": 100,
+					"height": 100,
+					"size": 26128
+				}
+			},
+			"is_video": false,
+			"tags": [
+				"fail",
+				"ceskatelevize",
+				"czechtv",
+				"ceska",
+				"televize",
+				"divadlo",
+				"cimrman",
+				"jary",
+				"Dobre",
+				"cimrmani",
+				"cimrmana",
+				"divadlojarycimrmana",
+				"dobry",
+				"sverak",
+				"napad",
+				"spatne",
+				"jiste",
+				"nepovedlo",
+				"vysledky",
+				"nebyly"
+			],
+			"cta": {
+				"text": "",
+				"link": ""
+			},
+			"featured_tags": [],
+			"embed_url": "https://giphy.com/embed/mDTDMVLjE27kyue7US",
+			"relative_url": "/gifs/ceskatelevize-ceska-czechtv-mDTDMVLjE27kyue7US",
+			"type": "gif",
+			"index_id": 102203315,
+			"slug": "ceskatelevize-ceska-czechtv-mDTDMVLjE27kyue7US",
+			"url": "https://giphy.com/gifs/ceskatelevize-ceska-czechtv-mDTDMVLjE27kyue7US",
+			"short_url": "https://gph.is/g/ajVxMwn",
+			"bitly_url": "https://gph.is/g/ajVxMwn",
+			"username": "ceska_televize",
+			"rating": "g",
+			"source_image_url": "/tmp/akka-http-upload2930133028871408021.tmp.mp4",
+			"source_post_url": "",
+			"source_content_url": "",
+			"source_tld": "",
+			"source_domain": "",
+			"source_caption": "",
+			"source_body": "",
+			"has_attribution": false,
+			"is_hidden": false,
+			"is_removed": false,
+			"is_community": false,
+			"is_anonymous": false,
+			"is_featured": false,
+			"is_realtime": false,
+			"is_indexable": false,
+			"is_sticker": false,
+			"is_preserve_size": false,
+			"is_trending": false,
+			"gps_no_trend": false,
+			"create_datetime": "2020-08-26T10:20:14+0000",
+			"update_datetime": "2021-10-25T15:51:22+0000",
+			"trending_datetime": null,
+			"external_media": null,
+			"import_type": null,
+			"user": {
+				"id": 7712188,
+				"username": "ceska_televize",
+				"avatar_url": "https://media.giphy.com/avatars/ceska_televize/uMsP7GgGUoqW.png",
+				"display_name": "Česká televize",
+				"user_type": "partner",
+				"twitter": "czechTV",
+				"is_public": true,
+				"is_verified": false,
+				"is_freelance": false,
+				"is_community": false,
+				"is_upgraded": true,
+				"is_partner_or_artist": true,
+				"suppress_chrome": false,
+				"website_url": "https://www.ceskatelevize.cz/",
+				"twitter_url": "https://twitter.com/czechTV",
+				"facebook_url": "https://www.facebook.com/ceskatelevize",
+				"instagram_url": "https://instagram.com/ceskatelevize",
+				"tumblr_url": "",
+				"tiktok_url": "",
+				"youtube_url": "",
+				"attribution_display_name": "Česká televize",
+				"disable_freelance_popup": false,
+				"name": "Česká televize",
+				"about_bio": "Czech public service TV",
+				"description": "Czech public service TV",
+				"profile_url": "https://giphy.com/ceska_televize"
+			},
+			"alt_text": ""
+		},
+		{
+			"id": "Tf9hORWzh7kmTeORRo",
+			"title": "Au Ne GIF",
+			"images": {
+				"hd": {
+					"width": 1920,
+					"height": 1920,
+					"mp4": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/giphy-hd.mp4",
+					"mp4_size": 14414451
+				},
+				"looping": {
+					"mp4": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/giphy-loop.mp4",
+					"mp4_size": 3608665
+				},
+				"source": {
+					"url": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/source.mp4",
+					"width": 1920,
+					"height": 1920,
+					"size": 11769055
+				},
+				"downsized": {
+					"url": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/giphy-downsized.gif",
+					"width": 292,
+					"height": 292,
+					"size": 1427389
+				},
+				"downsized_large": {
+					"url": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 5763978
+				},
+				"downsized_medium": {
+					"url": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/giphy-downsized-medium.gif",
+					"width": 480,
+					"height": 480,
+					"size": 3705687
+				},
+				"downsized_small": {
+					"width": 198,
+					"height": 198,
+					"mp4": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/giphy-downsized-small.mp4",
+					"mp4_size": 88488
+				},
+				"downsized_still": {
+					"url": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/giphy-downsized_s.gif",
+					"width": 292,
+					"height": 292,
+					"size": 23785
+				},
+				"fixed_height": {
+					"url": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/200.gif",
+					"width": 200,
+					"height": 200,
+					"size": 924003,
+					"mp4": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/200.mp4",
+					"mp4_size": 183818,
+					"webp": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/200.webp",
+					"webp_size": 463844
+				},
+				"fixed_height_downsampled": {
+					"url": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/200_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 105767,
+					"webp": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/200_d.webp",
+					"webp_size": 66912
+				},
+				"fixed_height_small": {
+					"url": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/100.gif",
+					"width": 100,
+					"height": 100,
+					"size": 286920,
+					"mp4": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/100.mp4",
+					"mp4_size": 55281,
+					"webp": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/100.webp",
+					"webp_size": 166040
+				},
+				"fixed_height_small_still": {
+					"url": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/100_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 5473
+				},
+				"fixed_height_still": {
+					"url": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/200_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 15836
+				},
+				"fixed_width": {
+					"url": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/200w.gif",
+					"width": 200,
+					"height": 200,
+					"size": 924003,
+					"mp4": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/200w.mp4",
+					"mp4_size": 183818,
+					"webp": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/200w.webp",
+					"webp_size": 463844
+				},
+				"fixed_width_downsampled": {
+					"url": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/200w_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 105767,
+					"webp": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/200w_d.webp",
+					"webp_size": 66912
+				},
+				"fixed_width_small": {
+					"url": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/100w.gif",
+					"width": 100,
+					"height": 100,
+					"size": 286920,
+					"mp4": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/100w.mp4",
+					"mp4_size": 50137,
+					"webp": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/100w.webp",
+					"webp_size": 166040
+				},
+				"fixed_width_small_still": {
+					"url": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/100w_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 5473
+				},
+				"fixed_width_still": {
+					"url": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/200w_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 15836
+				},
+				"original": {
+					"url": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 5763978,
+					"frames": 60,
+					"hash": "e4655f4f078e7e05c701857c01952c01",
+					"mp4": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/giphy.mp4",
+					"mp4_size": 1158908,
+					"webp": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/giphy.webp",
+					"webp_size": 1402406
+				},
+				"original_mp4": {
+					"width": 480,
+					"height": 480,
+					"mp4": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/giphy.mp4",
+					"mp4_size": 1158908
+				},
+				"original_still": {
+					"url": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/giphy_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 93344
+				},
+				"preview": {
+					"width": 246,
+					"height": 246,
+					"mp4": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/giphy-preview.mp4",
+					"mp4_size": 39020
+				},
+				"preview_gif": {
+					"url": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/giphy-preview.gif",
+					"width": 75,
+					"height": 75,
+					"size": 49998
+				},
+				"preview_webp": {
+					"url": "https://media2.giphy.com/media/Tf9hORWzh7kmTeORRo/giphy-preview.webp",
+					"width": 138,
+					"height": 138,
+					"size": 42976
+				}
+			},
+			"is_video": false,
+			"tags": [
+				"au",
+				"ne",
+				"ceskatelevize",
+				"czechtv",
+				"ceska",
+				"televize",
+				"divadlo",
+				"cimrman",
+				"jary",
+				"cimrmani",
+				"cimrmana",
+				"divadlojarycimrmana",
+				"nesouhlas",
+				"odmitam"
+			],
+			"cta": {
+				"text": "",
+				"link": ""
+			},
+			"featured_tags": [],
+			"embed_url": "https://giphy.com/embed/Tf9hORWzh7kmTeORRo",
+			"relative_url": "/gifs/ceskatelevize-ceska-czechtv-Tf9hORWzh7kmTeORRo",
+			"type": "gif",
+			"index_id": 102203333,
+			"slug": "ceskatelevize-ceska-czechtv-Tf9hORWzh7kmTeORRo",
+			"url": "https://giphy.com/gifs/ceskatelevize-ceska-czechtv-Tf9hORWzh7kmTeORRo",
+			"short_url": "https://gph.is/g/EBo3BBd",
+			"bitly_url": "https://gph.is/g/EBo3BBd",
+			"username": "ceska_televize",
+			"rating": "g",
+			"source_image_url": "/tmp/akka-http-upload5658678237866497030.tmp.mp4",
+			"source_post_url": "",
+			"source_content_url": "",
+			"source_tld": "",
+			"source_domain": "",
+			"source_caption": "",
+			"source_body": "",
+			"has_attribution": false,
+			"is_hidden": false,
+			"is_removed": false,
+			"is_community": false,
+			"is_anonymous": false,
+			"is_featured": false,
+			"is_realtime": false,
+			"is_indexable": false,
+			"is_sticker": false,
+			"is_preserve_size": false,
+			"is_trending": false,
+			"gps_no_trend": false,
+			"create_datetime": "2020-08-26T10:20:38+0000",
+			"update_datetime": "2021-10-25T15:51:22+0000",
+			"trending_datetime": null,
+			"external_media": null,
+			"import_type": null,
+			"user": {
+				"id": 7712188,
+				"username": "ceska_televize",
+				"avatar_url": "https://media.giphy.com/avatars/ceska_televize/uMsP7GgGUoqW.png",
+				"display_name": "Česká televize",
+				"user_type": "partner",
+				"twitter": "czechTV",
+				"is_public": true,
+				"is_verified": false,
+				"is_freelance": false,
+				"is_community": false,
+				"is_upgraded": true,
+				"is_partner_or_artist": true,
+				"suppress_chrome": false,
+				"website_url": "https://www.ceskatelevize.cz/",
+				"twitter_url": "https://twitter.com/czechTV",
+				"facebook_url": "https://www.facebook.com/ceskatelevize",
+				"instagram_url": "https://instagram.com/ceskatelevize",
+				"tumblr_url": "",
+				"tiktok_url": "",
+				"youtube_url": "",
+				"attribution_display_name": "Česká televize",
+				"disable_freelance_popup": false,
+				"name": "Česká televize",
+				"about_bio": "Czech public service TV",
+				"description": "Czech public service TV",
+				"profile_url": "https://giphy.com/ceska_televize"
+			},
+			"alt_text": ""
+		},
+		{
+			"id": "llVOKniK4iETq6JKsl",
+			"title": "Ceskatelevize Ceska GIF",
+			"images": {
+				"hd": {
+					"width": 1920,
+					"height": 1920,
+					"mp4": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/giphy-hd.mp4",
+					"mp4_size": 22909029
+				},
+				"looping": {
+					"mp4": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/giphy-loop.mp4",
+					"mp4_size": 2646087
+				},
+				"source": {
+					"url": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/source.mp4",
+					"width": 1920,
+					"height": 1920,
+					"size": 20018905
+				},
+				"downsized": {
+					"url": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/giphy-downsized.gif",
+					"width": 384,
+					"height": 384,
+					"size": 1648549
+				},
+				"downsized_large": {
+					"url": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 7376095
+				},
+				"downsized_medium": {
+					"url": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/giphy-downsized-medium.gif",
+					"width": 480,
+					"height": 480,
+					"size": 3807360
+				},
+				"downsized_small": {
+					"width": 192,
+					"height": 192,
+					"mp4": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/giphy-downsized-small.mp4",
+					"mp4_size": 75173
+				},
+				"downsized_still": {
+					"url": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/giphy-downsized_s.gif",
+					"width": 384,
+					"height": 384,
+					"size": 32946
+				},
+				"fixed_height": {
+					"url": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/200.gif",
+					"width": 200,
+					"height": 200,
+					"size": 1283355,
+					"mp4": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/200.mp4",
+					"mp4_size": 206850,
+					"webp": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/200.webp",
+					"webp_size": 551564
+				},
+				"fixed_height_downsampled": {
+					"url": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/200_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 78090,
+					"webp": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/200_d.webp",
+					"webp_size": 49174
+				},
+				"fixed_height_small": {
+					"url": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/100.gif",
+					"width": 100,
+					"height": 100,
+					"size": 422735,
+					"mp4": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/100.mp4",
+					"mp4_size": 63551,
+					"webp": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/100.webp",
+					"webp_size": 213896
+				},
+				"fixed_height_small_still": {
+					"url": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/100_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 5153
+				},
+				"fixed_height_still": {
+					"url": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/200_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 13506
+				},
+				"fixed_width": {
+					"url": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/200w.gif",
+					"width": 200,
+					"height": 200,
+					"size": 1283355,
+					"mp4": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/200w.mp4",
+					"mp4_size": 206850,
+					"webp": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/200w.webp",
+					"webp_size": 551564
+				},
+				"fixed_width_downsampled": {
+					"url": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/200w_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 78090,
+					"webp": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/200w_d.webp",
+					"webp_size": 49174
+				},
+				"fixed_width_small": {
+					"url": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/100w.gif",
+					"width": 100,
+					"height": 100,
+					"size": 422735,
+					"mp4": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/100w.mp4",
+					"mp4_size": 48676,
+					"webp": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/100w.webp",
+					"webp_size": 213896
+				},
+				"fixed_width_small_still": {
+					"url": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/100w_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 5153
+				},
+				"fixed_width_still": {
+					"url": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/200w_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 13506
+				},
+				"original": {
+					"url": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 7376095,
+					"frames": 105,
+					"hash": "38fc9f58d6fcc137aff1dfc7fad06ff9",
+					"mp4": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/giphy.mp4",
+					"mp4_size": 1577846,
+					"webp": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/giphy.webp",
+					"webp_size": 1540232
+				},
+				"original_mp4": {
+					"width": 480,
+					"height": 480,
+					"mp4": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/giphy.mp4",
+					"mp4_size": 1577846
+				},
+				"original_still": {
+					"url": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/giphy_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 71591
+				},
+				"preview": {
+					"width": 300,
+					"height": 300,
+					"mp4": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/giphy-preview.mp4",
+					"mp4_size": 32221
+				},
+				"preview_gif": {
+					"url": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/giphy-preview.gif",
+					"width": 75,
+					"height": 75,
+					"size": 46636
+				},
+				"preview_webp": {
+					"url": "https://media2.giphy.com/media/llVOKniK4iETq6JKsl/giphy-preview.webp",
+					"width": 170,
+					"height": 170,
+					"size": 48280
+				}
+			},
+			"is_video": false,
+			"tags": [
+				"ceskatelevize",
+				"czechtv",
+				"ceska",
+				"televize",
+				"divadlo",
+				"cimrman",
+				"jary",
+				"cimrmani",
+				"cimrmana",
+				"divadlojarycimrmana",
+				"jsem",
+				"silene",
+				"prekvapen",
+				"nevycházím z údivu"
+			],
+			"cta": {
+				"text": "",
+				"link": ""
+			},
+			"featured_tags": [],
+			"embed_url": "https://giphy.com/embed/llVOKniK4iETq6JKsl",
+			"relative_url": "/gifs/ceskatelevize-ceska-czechtv-llVOKniK4iETq6JKsl",
+			"type": "gif",
+			"index_id": 102203366,
+			"slug": "ceskatelevize-ceska-czechtv-llVOKniK4iETq6JKsl",
+			"url": "https://giphy.com/gifs/ceskatelevize-ceska-czechtv-llVOKniK4iETq6JKsl",
+			"short_url": "https://gph.is/g/4LD0mm0",
+			"bitly_url": "https://gph.is/g/4LD0mm0",
+			"username": "ceska_televize",
+			"rating": "g",
+			"source_image_url": "/tmp/akka-http-upload7211082943943094859.tmp.mp4",
+			"source_post_url": "",
+			"source_content_url": "",
+			"source_tld": "",
+			"source_domain": "",
+			"source_caption": "",
+			"source_body": "",
+			"has_attribution": false,
+			"is_hidden": false,
+			"is_removed": false,
+			"is_community": false,
+			"is_anonymous": false,
+			"is_featured": false,
+			"is_realtime": false,
+			"is_indexable": false,
+			"is_sticker": false,
+			"is_preserve_size": false,
+			"is_trending": false,
+			"gps_no_trend": false,
+			"create_datetime": "2020-08-26T10:21:25+0000",
+			"update_datetime": "2021-10-25T15:51:22+0000",
+			"trending_datetime": null,
+			"external_media": null,
+			"import_type": null,
+			"user": {
+				"id": 7712188,
+				"username": "ceska_televize",
+				"avatar_url": "https://media.giphy.com/avatars/ceska_televize/uMsP7GgGUoqW.png",
+				"display_name": "Česká televize",
+				"user_type": "partner",
+				"twitter": "czechTV",
+				"is_public": true,
+				"is_verified": false,
+				"is_freelance": false,
+				"is_community": false,
+				"is_upgraded": true,
+				"is_partner_or_artist": true,
+				"suppress_chrome": false,
+				"website_url": "https://www.ceskatelevize.cz/",
+				"twitter_url": "https://twitter.com/czechTV",
+				"facebook_url": "https://www.facebook.com/ceskatelevize",
+				"instagram_url": "https://instagram.com/ceskatelevize",
+				"tumblr_url": "",
+				"tiktok_url": "",
+				"youtube_url": "",
+				"attribution_display_name": "Česká televize",
+				"disable_freelance_popup": false,
+				"name": "Česká televize",
+				"about_bio": "Czech public service TV",
+				"description": "Czech public service TV",
+				"profile_url": "https://giphy.com/ceska_televize"
+			},
+			"alt_text": ""
+		},
+		{
+			"id": "kGhvwQQV8rvBVZKK1j",
+			"title": "Si Z GIF",
+			"images": {
+				"hd": {
+					"width": 1920,
+					"height": 1920,
+					"mp4": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/giphy-hd.mp4",
+					"mp4_size": 23066433
+				},
+				"looping": {
+					"mp4": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/giphy-loop.mp4",
+					"mp4_size": 4210716
+				},
+				"source": {
+					"url": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/source.mp4",
+					"width": 1920,
+					"height": 1920,
+					"size": 18384952
+				},
+				"downsized": {
+					"url": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/giphy-downsized.gif",
+					"width": 384,
+					"height": 384,
+					"size": 1761685
+				},
+				"downsized_large": {
+					"url": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/giphy-downsized-large.gif",
+					"width": 480,
+					"height": 480,
+					"size": 5514980
+				},
+				"downsized_medium": {
+					"url": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/giphy-downsized-medium.gif",
+					"width": 480,
+					"height": 480,
+					"size": 4525006
+				},
+				"downsized_small": {
+					"width": 192,
+					"height": 192,
+					"mp4": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/giphy-downsized-small.mp4",
+					"mp4_size": 177872
+				},
+				"downsized_still": {
+					"url": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/giphy-downsized_s.gif",
+					"width": 384,
+					"height": 384,
+					"size": 44046
+				},
+				"fixed_height": {
+					"url": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/200.gif",
+					"width": 200,
+					"height": 200,
+					"size": 1459601,
+					"mp4": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/200.mp4",
+					"mp4_size": 423024,
+					"webp": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/200.webp",
+					"webp_size": 777538
+				},
+				"fixed_height_downsampled": {
+					"url": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/200_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 94837,
+					"webp": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/200_d.webp",
+					"webp_size": 59648
+				},
+				"fixed_height_small": {
+					"url": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/100.gif",
+					"width": 100,
+					"height": 100,
+					"size": 484042,
+					"mp4": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/100.mp4",
+					"mp4_size": 141358,
+					"webp": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/100.webp",
+					"webp_size": 292732
+				},
+				"fixed_height_small_still": {
+					"url": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/100_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 6061
+				},
+				"fixed_height_still": {
+					"url": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/200_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 16640
+				},
+				"fixed_width": {
+					"url": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/200w.gif",
+					"width": 200,
+					"height": 200,
+					"size": 1459601,
+					"mp4": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/200w.mp4",
+					"mp4_size": 423024,
+					"webp": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/200w.webp",
+					"webp_size": 777538
+				},
+				"fixed_width_downsampled": {
+					"url": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/200w_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 94837,
+					"webp": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/200w_d.webp",
+					"webp_size": 59648
+				},
+				"fixed_width_small": {
+					"url": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/100w.gif",
+					"width": 100,
+					"height": 100,
+					"size": 484042,
+					"mp4": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/100w.mp4",
+					"mp4_size": 47361,
+					"webp": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/100w.webp",
+					"webp_size": 292732
+				},
+				"fixed_width_small_still": {
+					"url": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/100w_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 6061
+				},
+				"fixed_width_still": {
+					"url": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/200w_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 16640
+				},
+				"original": {
+					"url": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 8498290,
+					"frames": 97,
+					"hash": "4f0ef15d1467d797ed05f20d0c9a16c7",
+					"mp4": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/giphy.mp4",
+					"mp4_size": 2198439,
+					"webp": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/giphy.webp",
+					"webp_size": 2262548
+				},
+				"original_mp4": {
+					"width": 480,
+					"height": 480,
+					"mp4": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/giphy.mp4",
+					"mp4_size": 2198439
+				},
+				"original_still": {
+					"url": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/giphy_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 95944
+				},
+				"preview": {
+					"width": 220,
+					"height": 220,
+					"mp4": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/giphy-preview.mp4",
+					"mp4_size": 35917
+				},
+				"preview_gif": {
+					"url": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/giphy-preview.gif",
+					"width": 76,
+					"height": 76,
+					"size": 49380
+				},
+				"preview_webp": {
+					"url": "https://media4.giphy.com/media/kGhvwQQV8rvBVZKK1j/giphy-preview.webp",
+					"width": 138,
+					"height": 138,
+					"size": 47976
+				}
+			},
+			"is_video": false,
+			"tags": [
+				"si",
+				"to",
+				"z",
+				"aha",
+				"ceskatelevize",
+				"czechtv",
+				"nic",
+				"ceska",
+				"televize",
+				"tak",
+				"divadlo",
+				"toho",
+				"cimrman",
+				"jary",
+				"cimrmani",
+				"cimrmana",
+				"divadlojarycimrmana",
+				"neres",
+				"cepelka",
+				"nedelej"
+			],
+			"cta": {
+				"text": "",
+				"link": ""
+			},
+			"featured_tags": [],
+			"embed_url": "https://giphy.com/embed/kGhvwQQV8rvBVZKK1j",
+			"relative_url": "/gifs/ceskatelevize-ceska-czechtv-kGhvwQQV8rvBVZKK1j",
+			"type": "gif",
+			"index_id": 102203391,
+			"slug": "ceskatelevize-ceska-czechtv-kGhvwQQV8rvBVZKK1j",
+			"url": "https://giphy.com/gifs/ceskatelevize-ceska-czechtv-kGhvwQQV8rvBVZKK1j",
+			"short_url": "https://gph.is/g/4wzoYKO",
+			"bitly_url": "https://gph.is/g/4wzoYKO",
+			"username": "ceska_televize",
+			"rating": "g",
+			"source_image_url": "/tmp/akka-http-upload5476093575918556577.tmp.mp4",
+			"source_post_url": "",
+			"source_content_url": "",
+			"source_tld": "",
+			"source_domain": "",
+			"source_caption": "",
+			"source_body": "",
+			"has_attribution": false,
+			"is_hidden": false,
+			"is_removed": false,
+			"is_community": false,
+			"is_anonymous": false,
+			"is_featured": false,
+			"is_realtime": false,
+			"is_indexable": false,
+			"is_sticker": false,
+			"is_preserve_size": false,
+			"is_trending": false,
+			"gps_no_trend": false,
+			"create_datetime": "2020-08-26T10:22:02+0000",
+			"update_datetime": "2021-10-25T15:51:22+0000",
+			"trending_datetime": null,
+			"external_media": null,
+			"import_type": null,
+			"user": {
+				"id": 7712188,
+				"username": "ceska_televize",
+				"avatar_url": "https://media.giphy.com/avatars/ceska_televize/uMsP7GgGUoqW.png",
+				"display_name": "Česká televize",
+				"user_type": "partner",
+				"twitter": "czechTV",
+				"is_public": true,
+				"is_verified": false,
+				"is_freelance": false,
+				"is_community": false,
+				"is_upgraded": true,
+				"is_partner_or_artist": true,
+				"suppress_chrome": false,
+				"website_url": "https://www.ceskatelevize.cz/",
+				"twitter_url": "https://twitter.com/czechTV",
+				"facebook_url": "https://www.facebook.com/ceskatelevize",
+				"instagram_url": "https://instagram.com/ceskatelevize",
+				"tumblr_url": "",
+				"tiktok_url": "",
+				"youtube_url": "",
+				"attribution_display_name": "Česká televize",
+				"disable_freelance_popup": false,
+				"name": "Česká televize",
+				"about_bio": "Czech public service TV",
+				"description": "Czech public service TV",
+				"profile_url": "https://giphy.com/ceska_televize"
+			},
+			"alt_text": ""
+		},
+		{
+			"id": "Sx3utZcLCG5HHBmZxk",
+			"title": "Ex Ceskatelevize GIF",
+			"images": {
+				"hd": {
+					"width": 1920,
+					"height": 1920,
+					"mp4": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/giphy-hd.mp4",
+					"mp4_size": 4660954
+				},
+				"looping": {
+					"mp4": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/giphy-loop.mp4",
+					"mp4_size": 4036528
+				},
+				"source": {
+					"url": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/source.mp4",
+					"width": 1920,
+					"height": 1920,
+					"size": 4528562
+				},
+				"downsized": {
+					"url": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/giphy-downsized.gif",
+					"width": 480,
+					"height": 480,
+					"size": 1149659
+				},
+				"downsized_large": {
+					"url": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 2155396
+				},
+				"downsized_medium": {
+					"url": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 2155396
+				},
+				"downsized_small": {
+					"width": 400,
+					"height": 400,
+					"mp4": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/giphy-downsized-small.mp4",
+					"mp4_size": 188202
+				},
+				"downsized_still": {
+					"url": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/giphy-downsized_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 64538
+				},
+				"fixed_height": {
+					"url": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/200.gif",
+					"width": 200,
+					"height": 200,
+					"size": 334869,
+					"mp4": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/200.mp4",
+					"mp4_size": 101170,
+					"webp": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/200.webp",
+					"webp_size": 145918
+				},
+				"fixed_height_downsampled": {
+					"url": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/200_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 136472,
+					"webp": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/200_d.webp",
+					"webp_size": 66792
+				},
+				"fixed_height_small": {
+					"url": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/100.gif",
+					"width": 100,
+					"height": 100,
+					"size": 105652,
+					"mp4": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/100.mp4",
+					"mp4_size": 35901,
+					"webp": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/100.webp",
+					"webp_size": 52020
+				},
+				"fixed_height_small_still": {
+					"url": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/100_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 6436
+				},
+				"fixed_height_still": {
+					"url": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/200_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 18530
+				},
+				"fixed_width": {
+					"url": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/200w.gif",
+					"width": 200,
+					"height": 200,
+					"size": 334869,
+					"mp4": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/200w.mp4",
+					"mp4_size": 101170,
+					"webp": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/200w.webp",
+					"webp_size": 145918
+				},
+				"fixed_width_downsampled": {
+					"url": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/200w_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 136472,
+					"webp": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/200w_d.webp",
+					"webp_size": 66792
+				},
+				"fixed_width_small": {
+					"url": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/100w.gif",
+					"width": 100,
+					"height": 100,
+					"size": 105652,
+					"mp4": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/100w.mp4",
+					"mp4_size": 35901,
+					"webp": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/100w.webp",
+					"webp_size": 52020
+				},
+				"fixed_width_small_still": {
+					"url": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/100w_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 6436
+				},
+				"fixed_width_still": {
+					"url": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/200w_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 18530
+				},
+				"original": {
+					"url": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 2155396,
+					"frames": 19,
+					"hash": "398bce94237ab49f7116c899b1ad205a",
+					"mp4": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/giphy.mp4",
+					"mp4_size": 395852,
+					"webp": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/giphy.webp",
+					"webp_size": 435444
+				},
+				"original_mp4": {
+					"width": 480,
+					"height": 480,
+					"mp4": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/giphy.mp4",
+					"mp4_size": 395852
+				},
+				"original_still": {
+					"url": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/giphy_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 116966
+				},
+				"preview": {
+					"width": 192,
+					"height": 192,
+					"mp4": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/giphy-preview.mp4",
+					"mp4_size": 38193
+				},
+				"preview_gif": {
+					"url": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/giphy-preview.gif",
+					"width": 68,
+					"height": 68,
+					"size": 47919
+				},
+				"preview_webp": {
+					"url": "https://media0.giphy.com/media/Sx3utZcLCG5HHBmZxk/giphy-preview.webp",
+					"width": 128,
+					"height": 128,
+					"size": 37694
+				}
+			},
+			"is_video": false,
+			"tags": [
+				"ex",
+				"ceskatelevize",
+				"pivo",
+				"czechtv",
+				"ceska",
+				"televize",
+				"divadlo",
+				"cimrman",
+				"jary",
+				"cimrmani",
+				"cimrmana",
+				"divadlojarycimrmana",
+				"piti",
+				"panak",
+				"cepelka",
+				"chlast",
+				"opily",
+				"koralka",
+				"slast",
+				"kořala"
+			],
+			"cta": {
+				"text": "",
+				"link": ""
+			},
+			"featured_tags": [],
+			"embed_url": "https://giphy.com/embed/Sx3utZcLCG5HHBmZxk",
+			"relative_url": "/gifs/ceskatelevize-ceska-czechtv-Sx3utZcLCG5HHBmZxk",
+			"type": "gif",
+			"index_id": 102203400,
+			"slug": "ceskatelevize-ceska-czechtv-Sx3utZcLCG5HHBmZxk",
+			"url": "https://giphy.com/gifs/ceskatelevize-ceska-czechtv-Sx3utZcLCG5HHBmZxk",
+			"short_url": "https://gph.is/g/a9emjVB",
+			"bitly_url": "https://gph.is/g/a9emjVB",
+			"username": "ceska_televize",
+			"rating": "g",
+			"source_image_url": "/tmp/akka-http-upload8748167155302035632.tmp.mp4",
+			"source_post_url": "",
+			"source_content_url": "",
+			"source_tld": "",
+			"source_domain": "",
+			"source_caption": "",
+			"source_body": "",
+			"has_attribution": false,
+			"is_hidden": false,
+			"is_removed": false,
+			"is_community": false,
+			"is_anonymous": false,
+			"is_featured": false,
+			"is_realtime": false,
+			"is_indexable": false,
+			"is_sticker": false,
+			"is_preserve_size": false,
+			"is_trending": false,
+			"gps_no_trend": false,
+			"create_datetime": "2020-08-26T10:22:10+0000",
+			"update_datetime": "2021-10-25T15:51:21+0000",
+			"trending_datetime": null,
+			"external_media": null,
+			"import_type": null,
+			"user": {
+				"id": 7712188,
+				"username": "ceska_televize",
+				"avatar_url": "https://media.giphy.com/avatars/ceska_televize/uMsP7GgGUoqW.png",
+				"display_name": "Česká televize",
+				"user_type": "partner",
+				"twitter": "czechTV",
+				"is_public": true,
+				"is_verified": false,
+				"is_freelance": false,
+				"is_community": false,
+				"is_upgraded": true,
+				"is_partner_or_artist": true,
+				"suppress_chrome": false,
+				"website_url": "https://www.ceskatelevize.cz/",
+				"twitter_url": "https://twitter.com/czechTV",
+				"facebook_url": "https://www.facebook.com/ceskatelevize",
+				"instagram_url": "https://instagram.com/ceskatelevize",
+				"tumblr_url": "",
+				"tiktok_url": "",
+				"youtube_url": "",
+				"attribution_display_name": "Česká televize",
+				"disable_freelance_popup": false,
+				"name": "Česká televize",
+				"about_bio": "Czech public service TV",
+				"description": "Czech public service TV",
+				"profile_url": "https://giphy.com/ceska_televize"
+			},
+			"alt_text": ""
+		},
+		{
+			"id": "lrsKzzFzKriFKB3Tv5",
+			"title": "Laugh Ceskatelevize GIF",
+			"images": {
+				"hd": {
+					"width": 1920,
+					"height": 1920,
+					"mp4": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/giphy-hd.mp4",
+					"mp4_size": 20743021
+				},
+				"looping": {
+					"mp4": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/giphy-loop.mp4",
+					"mp4_size": 5086055
+				},
+				"source": {
+					"url": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/source.mp4",
+					"width": 1920,
+					"height": 1920,
+					"size": 13787181
+				},
+				"downsized": {
+					"url": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/giphy-downsized.gif",
+					"width": 240,
+					"height": 240,
+					"size": 1310134
+				},
+				"downsized_large": {
+					"url": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/giphy-downsized-large.gif",
+					"width": 480,
+					"height": 480,
+					"size": 6159209
+				},
+				"downsized_medium": {
+					"url": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/giphy-downsized-medium.gif",
+					"width": 384,
+					"height": 384,
+					"size": 4125700
+				},
+				"downsized_small": {
+					"width": 192,
+					"height": 192,
+					"mp4": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/giphy-downsized-small.mp4",
+					"mp4_size": 77434
+				},
+				"downsized_still": {
+					"url": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/giphy-downsized_s.gif",
+					"width": 240,
+					"height": 240,
+					"size": 22697
+				},
+				"fixed_height": {
+					"url": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/200.gif",
+					"width": 200,
+					"height": 200,
+					"size": 1340595,
+					"mp4": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/200.mp4",
+					"mp4_size": 253178,
+					"webp": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/200.webp",
+					"webp_size": 759472
+				},
+				"fixed_height_downsampled": {
+					"url": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/200_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 132601,
+					"webp": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/200_d.webp",
+					"webp_size": 75420
+				},
+				"fixed_height_small": {
+					"url": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/100.gif",
+					"width": 100,
+					"height": 100,
+					"size": 383103,
+					"mp4": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/100.mp4",
+					"mp4_size": 52829,
+					"webp": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/100.webp",
+					"webp_size": 243080
+				},
+				"fixed_height_small_still": {
+					"url": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/100_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 6785
+				},
+				"fixed_height_still": {
+					"url": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/200_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 20275
+				},
+				"fixed_width": {
+					"url": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/200w.gif",
+					"width": 200,
+					"height": 200,
+					"size": 1340595,
+					"mp4": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/200w.mp4",
+					"mp4_size": 253178,
+					"webp": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/200w.webp",
+					"webp_size": 759472
+				},
+				"fixed_width_downsampled": {
+					"url": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/200w_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 132601,
+					"webp": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/200w_d.webp",
+					"webp_size": 75420
+				},
+				"fixed_width_small": {
+					"url": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/100w.gif",
+					"width": 100,
+					"height": 100,
+					"size": 383103,
+					"mp4": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/100w.mp4",
+					"mp4_size": 48724,
+					"webp": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/100w.webp",
+					"webp_size": 243080
+				},
+				"fixed_width_small_still": {
+					"url": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/100w_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 6785
+				},
+				"fixed_width_still": {
+					"url": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/200w_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 20275
+				},
+				"original": {
+					"url": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 8731282,
+					"frames": 72,
+					"hash": "2ce3f441bc42704f3b34807c495948f3",
+					"mp4": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/giphy.mp4",
+					"mp4_size": 1981335,
+					"webp": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/giphy.webp",
+					"webp_size": 2655676
+				},
+				"original_mp4": {
+					"width": 480,
+					"height": 480,
+					"mp4": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/giphy.mp4",
+					"mp4_size": 1981335
+				},
+				"original_still": {
+					"url": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/giphy_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 125028
+				},
+				"preview": {
+					"width": 206,
+					"height": 206,
+					"mp4": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/giphy-preview.mp4",
+					"mp4_size": 33342
+				},
+				"preview_gif": {
+					"url": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/giphy-preview.gif",
+					"width": 81,
+					"height": 81,
+					"size": 49769
+				},
+				"preview_webp": {
+					"url": "https://media1.giphy.com/media/lrsKzzFzKriFKB3Tv5/giphy-preview.webp",
+					"width": 102,
+					"height": 102,
+					"size": 34630
+				}
+			},
+			"is_video": false,
+			"tags": [
+				"laugh",
+				"ceskatelevize",
+				"czechtv",
+				"ceska",
+				"televize",
+				"divadlo",
+				"cimrman",
+				"jary",
+				"cimrmani",
+				"cimrmana",
+				"divadlojarycimrmana",
+				"smich",
+				"vtipne",
+				"nesouhlas",
+				"cepelka",
+				"trapne"
+			],
+			"cta": {
+				"text": "",
+				"link": ""
+			},
+			"featured_tags": [],
+			"embed_url": "https://giphy.com/embed/lrsKzzFzKriFKB3Tv5",
+			"relative_url": "/gifs/ceskatelevize-ceska-czechtv-lrsKzzFzKriFKB3Tv5",
+			"type": "gif",
+			"index_id": 102203424,
+			"slug": "ceskatelevize-ceska-czechtv-lrsKzzFzKriFKB3Tv5",
+			"url": "https://giphy.com/gifs/ceskatelevize-ceska-czechtv-lrsKzzFzKriFKB3Tv5",
+			"short_url": "https://gph.is/g/Z50qLWk",
+			"bitly_url": "https://gph.is/g/Z50qLWk",
+			"username": "ceska_televize",
+			"rating": "g",
+			"source_image_url": "/tmp/akka-http-upload1053564313056586017.tmp.mp4",
+			"source_post_url": "",
+			"source_content_url": "",
+			"source_tld": "",
+			"source_domain": "",
+			"source_caption": "",
+			"source_body": "",
+			"has_attribution": false,
+			"is_hidden": false,
+			"is_removed": false,
+			"is_community": false,
+			"is_anonymous": false,
+			"is_featured": false,
+			"is_realtime": false,
+			"is_indexable": false,
+			"is_sticker": false,
+			"is_preserve_size": false,
+			"is_trending": false,
+			"gps_no_trend": false,
+			"create_datetime": "2020-08-26T10:22:41+0000",
+			"update_datetime": "2021-10-25T15:51:21+0000",
+			"trending_datetime": null,
+			"external_media": null,
+			"import_type": null,
+			"user": {
+				"id": 7712188,
+				"username": "ceska_televize",
+				"avatar_url": "https://media.giphy.com/avatars/ceska_televize/uMsP7GgGUoqW.png",
+				"display_name": "Česká televize",
+				"user_type": "partner",
+				"twitter": "czechTV",
+				"is_public": true,
+				"is_verified": false,
+				"is_freelance": false,
+				"is_community": false,
+				"is_upgraded": true,
+				"is_partner_or_artist": true,
+				"suppress_chrome": false,
+				"website_url": "https://www.ceskatelevize.cz/",
+				"twitter_url": "https://twitter.com/czechTV",
+				"facebook_url": "https://www.facebook.com/ceskatelevize",
+				"instagram_url": "https://instagram.com/ceskatelevize",
+				"tumblr_url": "",
+				"tiktok_url": "",
+				"youtube_url": "",
+				"attribution_display_name": "Česká televize",
+				"disable_freelance_popup": false,
+				"name": "Česká televize",
+				"about_bio": "Czech public service TV",
+				"description": "Czech public service TV",
+				"profile_url": "https://giphy.com/ceska_televize"
+			},
+			"alt_text": ""
+		},
+		{
+			"id": "VItsfdFHk6KJNvmVER",
+			"title": "Eyes Rolling GIF",
+			"images": {
+				"hd": {
+					"width": 1920,
+					"height": 1920,
+					"mp4": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/giphy-hd.mp4",
+					"mp4_size": 24517102
+				},
+				"looping": {
+					"mp4": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/giphy-loop.mp4",
+					"mp4_size": 2947388
+				},
+				"source": {
+					"url": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/source.mp4",
+					"width": 1920,
+					"height": 1920,
+					"size": 21936511
+				},
+				"downsized": {
+					"url": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/giphy-downsized.gif",
+					"width": 307,
+					"height": 307,
+					"size": 1450439
+				},
+				"downsized_large": {
+					"url": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/giphy-downsized-large.gif",
+					"width": 480,
+					"height": 480,
+					"size": 6956848
+				},
+				"downsized_medium": {
+					"url": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/giphy-downsized-medium.gif",
+					"width": 480,
+					"height": 480,
+					"size": 4683823
+				},
+				"downsized_small": {
+					"width": 192,
+					"height": 192,
+					"mp4": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/giphy-downsized-small.mp4",
+					"mp4_size": 91626
+				},
+				"downsized_still": {
+					"url": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/giphy-downsized_s.gif",
+					"width": 307,
+					"height": 307,
+					"size": 29943
+				},
+				"fixed_height": {
+					"url": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/200.gif",
+					"width": 200,
+					"height": 200,
+					"size": 1746067,
+					"mp4": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/200.mp4",
+					"mp4_size": 295641,
+					"webp": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/200.webp",
+					"webp_size": 798904
+				},
+				"fixed_height_downsampled": {
+					"url": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/200_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 96387,
+					"webp": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/200_d.webp",
+					"webp_size": 52294
+				},
+				"fixed_height_small": {
+					"url": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/100.gif",
+					"width": 100,
+					"height": 100,
+					"size": 545795,
+					"mp4": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/100.mp4",
+					"mp4_size": 90583,
+					"webp": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/100.webp",
+					"webp_size": 287624
+				},
+				"fixed_height_small_still": {
+					"url": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/100_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 5379
+				},
+				"fixed_height_still": {
+					"url": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/200_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 15489
+				},
+				"fixed_width": {
+					"url": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/200w.gif",
+					"width": 200,
+					"height": 200,
+					"size": 1746067,
+					"mp4": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/200w.mp4",
+					"mp4_size": 295641,
+					"webp": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/200w.webp",
+					"webp_size": 798904
+				},
+				"fixed_width_downsampled": {
+					"url": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/200w_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 96387,
+					"webp": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/200w_d.webp",
+					"webp_size": 52294
+				},
+				"fixed_width_small": {
+					"url": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/100w.gif",
+					"width": 100,
+					"height": 100,
+					"size": 545795,
+					"mp4": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/100w.mp4",
+					"mp4_size": 46891,
+					"webp": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/100w.webp",
+					"webp_size": 287624
+				},
+				"fixed_width_small_still": {
+					"url": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/100w_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 5379
+				},
+				"fixed_width_still": {
+					"url": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/200w_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 15489
+				},
+				"original": {
+					"url": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 10867551,
+					"frames": 119,
+					"hash": "2f381146e1b16100cb3a6f588c2540b2",
+					"mp4": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/giphy.mp4",
+					"mp4_size": 1865270,
+					"webp": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/giphy.webp",
+					"webp_size": 2433842
+				},
+				"original_mp4": {
+					"width": 480,
+					"height": 480,
+					"mp4": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/giphy.mp4",
+					"mp4_size": 1865270
+				},
+				"original_still": {
+					"url": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/giphy_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 92588
+				},
+				"preview": {
+					"width": 268,
+					"height": 268,
+					"mp4": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/giphy-preview.mp4",
+					"mp4_size": 35585
+				},
+				"preview_gif": {
+					"url": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/giphy-preview.gif",
+					"width": 75,
+					"height": 75,
+					"size": 47195
+				},
+				"preview_webp": {
+					"url": "https://media0.giphy.com/media/VItsfdFHk6KJNvmVER/giphy-preview.webp",
+					"width": 148,
+					"height": 148,
+					"size": 42518
+				}
+			},
+			"is_video": false,
+			"tags": [
+				"eyes",
+				"rolling",
+				"ceskatelevize",
+				"czechtv",
+				"ceska",
+				"televize",
+				"divadlo",
+				"cimrman",
+				"jary",
+				"cimrmani",
+				"cimrmana",
+				"divadlojarycimrmana",
+				"smoljak",
+				"jezis",
+				"paneboze"
+			],
+			"cta": {
+				"text": "",
+				"link": ""
+			},
+			"featured_tags": [],
+			"embed_url": "https://giphy.com/embed/VItsfdFHk6KJNvmVER",
+			"relative_url": "/gifs/ceskatelevize-ceska-czechtv-VItsfdFHk6KJNvmVER",
+			"type": "gif",
+			"index_id": 102203459,
+			"slug": "ceskatelevize-ceska-czechtv-VItsfdFHk6KJNvmVER",
+			"url": "https://giphy.com/gifs/ceskatelevize-ceska-czechtv-VItsfdFHk6KJNvmVER",
+			"short_url": "https://gph.is/g/EJeKxJq",
+			"bitly_url": "https://gph.is/g/EJeKxJq",
+			"username": "ceska_televize",
+			"rating": "g",
+			"source_image_url": "/tmp/akka-http-upload7488291897258754225.tmp.mp4",
+			"source_post_url": "",
+			"source_content_url": "",
+			"source_tld": "",
+			"source_domain": "",
+			"source_caption": "",
+			"source_body": "",
+			"has_attribution": false,
+			"is_hidden": false,
+			"is_removed": false,
+			"is_community": false,
+			"is_anonymous": false,
+			"is_featured": false,
+			"is_realtime": false,
+			"is_indexable": false,
+			"is_sticker": false,
+			"is_preserve_size": false,
+			"is_trending": false,
+			"gps_no_trend": false,
+			"create_datetime": "2020-08-26T10:23:23+0000",
+			"update_datetime": "2021-10-25T15:51:21+0000",
+			"trending_datetime": null,
+			"external_media": null,
+			"import_type": null,
+			"user": {
+				"id": 7712188,
+				"username": "ceska_televize",
+				"avatar_url": "https://media.giphy.com/avatars/ceska_televize/uMsP7GgGUoqW.png",
+				"display_name": "Česká televize",
+				"user_type": "partner",
+				"twitter": "czechTV",
+				"is_public": true,
+				"is_verified": false,
+				"is_freelance": false,
+				"is_community": false,
+				"is_upgraded": true,
+				"is_partner_or_artist": true,
+				"suppress_chrome": false,
+				"website_url": "https://www.ceskatelevize.cz/",
+				"twitter_url": "https://twitter.com/czechTV",
+				"facebook_url": "https://www.facebook.com/ceskatelevize",
+				"instagram_url": "https://instagram.com/ceskatelevize",
+				"tumblr_url": "",
+				"tiktok_url": "",
+				"youtube_url": "",
+				"attribution_display_name": "Česká televize",
+				"disable_freelance_popup": false,
+				"name": "Česká televize",
+				"about_bio": "Czech public service TV",
+				"description": "Czech public service TV",
+				"profile_url": "https://giphy.com/ceska_televize"
+			},
+			"alt_text": ""
+		},
+		{
+			"id": "JnAeifagKVJRupQDhj",
+			"title": "Ceskatelevize Ceska GIF",
+			"images": {
+				"hd": {
+					"width": 1920,
+					"height": 1920,
+					"mp4": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/giphy-hd.mp4",
+					"mp4_size": 4369347
+				},
+				"looping": {
+					"mp4": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/giphy-loop.mp4",
+					"mp4_size": 2455087
+				},
+				"source": {
+					"url": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/source.mp4",
+					"width": 1920,
+					"height": 1920,
+					"size": 4377623
+				},
+				"downsized": {
+					"url": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 774627
+				},
+				"downsized_large": {
+					"url": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 774627
+				},
+				"downsized_medium": {
+					"url": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 774627
+				},
+				"downsized_small": {
+					"width": 416,
+					"height": 416,
+					"mp4": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/giphy-downsized-small.mp4",
+					"mp4_size": 43309
+				},
+				"downsized_still": {
+					"url": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/giphy_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 774627
+				},
+				"fixed_height": {
+					"url": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/200.gif",
+					"width": 200,
+					"height": 200,
+					"size": 143396,
+					"mp4": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/200.mp4",
+					"mp4_size": 28288,
+					"webp": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/200.webp",
+					"webp_size": 63332
+				},
+				"fixed_height_downsampled": {
+					"url": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/200_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 44769,
+					"webp": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/200_d.webp",
+					"webp_size": 23892
+				},
+				"fixed_height_small": {
+					"url": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/100.gif",
+					"width": 100,
+					"height": 100,
+					"size": 46964,
+					"mp4": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/100.mp4",
+					"mp4_size": 9717,
+					"webp": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/100.webp",
+					"webp_size": 25428
+				},
+				"fixed_height_small_still": {
+					"url": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/100_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 3236
+				},
+				"fixed_height_still": {
+					"url": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/200_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 12581
+				},
+				"fixed_width": {
+					"url": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/200w.gif",
+					"width": 200,
+					"height": 200,
+					"size": 143396,
+					"mp4": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/200w.mp4",
+					"mp4_size": 28288,
+					"webp": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/200w.webp",
+					"webp_size": 63332
+				},
+				"fixed_width_downsampled": {
+					"url": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/200w_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 44769,
+					"webp": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/200w_d.webp",
+					"webp_size": 23892
+				},
+				"fixed_width_small": {
+					"url": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/100w.gif",
+					"width": 100,
+					"height": 100,
+					"size": 46964,
+					"mp4": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/100w.mp4",
+					"mp4_size": 9717,
+					"webp": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/100w.webp",
+					"webp_size": 25428
+				},
+				"fixed_width_small_still": {
+					"url": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/100w_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 3236
+				},
+				"fixed_width_still": {
+					"url": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/200w_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 12581
+				},
+				"original": {
+					"url": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 774627,
+					"frames": 19,
+					"hash": "0f371345f51d7135b383f413719a582f",
+					"mp4": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/giphy.mp4",
+					"mp4_size": 265357,
+					"webp": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/giphy.webp",
+					"webp_size": 199472
+				},
+				"original_mp4": {
+					"width": 480,
+					"height": 480,
+					"mp4": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/giphy.mp4",
+					"mp4_size": 265357
+				},
+				"original_still": {
+					"url": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/giphy_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 40485
+				},
+				"preview": {
+					"width": 208,
+					"height": 208,
+					"mp4": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/giphy-preview.mp4",
+					"mp4_size": 12529
+				},
+				"preview_gif": {
+					"url": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/giphy-preview.gif",
+					"width": 81,
+					"height": 81,
+					"size": 43494
+				},
+				"preview_webp": {
+					"url": "https://media1.giphy.com/media/JnAeifagKVJRupQDhj/giphy-preview.webp",
+					"width": 268,
+					"height": 268,
+					"size": 48288
+				}
+			},
+			"is_video": false,
+			"tags": [
+				"se",
+				"ceskatelevize",
+				"czechtv",
+				"ceska",
+				"televize",
+				"sok",
+				"divadlo",
+				"cimrman",
+				"jary",
+				"cimrmani",
+				"cimrmana",
+				"divadlojarycimrmana",
+				"trese",
+				"smoljak",
+				"elektrina",
+				"třesoučí"
+			],
+			"cta": {
+				"text": "",
+				"link": ""
+			},
+			"featured_tags": [],
+			"embed_url": "https://giphy.com/embed/JnAeifagKVJRupQDhj",
+			"relative_url": "/gifs/ceskatelevize-ceska-czechtv-JnAeifagKVJRupQDhj",
+			"type": "gif",
+			"index_id": 102203464,
+			"slug": "ceskatelevize-ceska-czechtv-JnAeifagKVJRupQDhj",
+			"url": "https://giphy.com/gifs/ceskatelevize-ceska-czechtv-JnAeifagKVJRupQDhj",
+			"short_url": "https://gph.is/g/ZOQjxbj",
+			"bitly_url": "https://gph.is/g/ZOQjxbj",
+			"username": "ceska_televize",
+			"rating": "g",
+			"source_image_url": "/tmp/akka-http-upload7344697128873531608.tmp.mp4",
+			"source_post_url": "",
+			"source_content_url": "",
+			"source_tld": "",
+			"source_domain": "",
+			"source_caption": "",
+			"source_body": "",
+			"has_attribution": false,
+			"is_hidden": false,
+			"is_removed": false,
+			"is_community": false,
+			"is_anonymous": false,
+			"is_featured": false,
+			"is_realtime": false,
+			"is_indexable": false,
+			"is_sticker": false,
+			"is_preserve_size": false,
+			"is_trending": false,
+			"gps_no_trend": false,
+			"create_datetime": "2020-08-26T10:23:30+0000",
+			"update_datetime": "2021-10-25T15:51:21+0000",
+			"trending_datetime": null,
+			"external_media": null,
+			"import_type": null,
+			"user": {
+				"id": 7712188,
+				"username": "ceska_televize",
+				"avatar_url": "https://media.giphy.com/avatars/ceska_televize/uMsP7GgGUoqW.png",
+				"display_name": "Česká televize",
+				"user_type": "partner",
+				"twitter": "czechTV",
+				"is_public": true,
+				"is_verified": false,
+				"is_freelance": false,
+				"is_community": false,
+				"is_upgraded": true,
+				"is_partner_or_artist": true,
+				"suppress_chrome": false,
+				"website_url": "https://www.ceskatelevize.cz/",
+				"twitter_url": "https://twitter.com/czechTV",
+				"facebook_url": "https://www.facebook.com/ceskatelevize",
+				"instagram_url": "https://instagram.com/ceskatelevize",
+				"tumblr_url": "",
+				"tiktok_url": "",
+				"youtube_url": "",
+				"attribution_display_name": "Česká televize",
+				"disable_freelance_popup": false,
+				"name": "Česká televize",
+				"about_bio": "Czech public service TV",
+				"description": "Czech public service TV",
+				"profile_url": "https://giphy.com/ceska_televize"
+			},
+			"alt_text": ""
+		},
+		{
+			"id": "LmHWC0DL7exTCeHRzY",
+			"title": "Ceskatelevize Ceska GIF",
+			"images": {
+				"hd": {
+					"width": 1920,
+					"height": 1920,
+					"mp4": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/giphy-hd.mp4",
+					"mp4_size": 20166990
+				},
+				"looping": {
+					"mp4": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/giphy-loop.mp4",
+					"mp4_size": 3038962
+				},
+				"source": {
+					"url": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/source.mp4",
+					"width": 1920,
+					"height": 1920,
+					"size": 16797890
+				},
+				"downsized": {
+					"url": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/giphy-downsized.gif",
+					"width": 343,
+					"height": 343,
+					"size": 1635498
+				},
+				"downsized_large": {
+					"url": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 7028855
+				},
+				"downsized_medium": {
+					"url": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/giphy-downsized-medium.gif",
+					"width": 480,
+					"height": 480,
+					"size": 4589313
+				},
+				"downsized_small": {
+					"width": 192,
+					"height": 192,
+					"mp4": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/giphy-downsized-small.mp4",
+					"mp4_size": 59598
+				},
+				"downsized_still": {
+					"url": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/giphy-downsized_s.gif",
+					"width": 343,
+					"height": 343,
+					"size": 28229
+				},
+				"fixed_height": {
+					"url": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/200.gif",
+					"width": 200,
+					"height": 200,
+					"size": 1178643,
+					"mp4": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/200.mp4",
+					"mp4_size": 172769,
+					"webp": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/200.webp",
+					"webp_size": 555954
+				},
+				"fixed_height_downsampled": {
+					"url": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/200_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 93893,
+					"webp": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/200_d.webp",
+					"webp_size": 50796
+				},
+				"fixed_height_small": {
+					"url": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/100.gif",
+					"width": 100,
+					"height": 100,
+					"size": 366181,
+					"mp4": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/100.mp4",
+					"mp4_size": 42898,
+					"webp": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/100.webp",
+					"webp_size": 200090
+				},
+				"fixed_height_small_still": {
+					"url": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/100_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 5012
+				},
+				"fixed_height_still": {
+					"url": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/200_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 14059
+				},
+				"fixed_width": {
+					"url": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/200w.gif",
+					"width": 200,
+					"height": 200,
+					"size": 1178643,
+					"mp4": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/200w.mp4",
+					"mp4_size": 172769,
+					"webp": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/200w.webp",
+					"webp_size": 555954
+				},
+				"fixed_width_downsampled": {
+					"url": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/200w_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 93893,
+					"webp": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/200w_d.webp",
+					"webp_size": 50796
+				},
+				"fixed_width_small": {
+					"url": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/100w.gif",
+					"width": 100,
+					"height": 100,
+					"size": 366181,
+					"mp4": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/100w.mp4",
+					"mp4_size": 42898,
+					"webp": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/100w.webp",
+					"webp_size": 200090
+				},
+				"fixed_width_small_still": {
+					"url": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/100w_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 5012
+				},
+				"fixed_width_still": {
+					"url": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/200w_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 14059
+				},
+				"original": {
+					"url": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 7028855,
+					"frames": 88,
+					"hash": "35ccb2117891ed8591e2785b7ee601e4",
+					"mp4": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/giphy.mp4",
+					"mp4_size": 1489514,
+					"webp": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/giphy.webp",
+					"webp_size": 1666496
+				},
+				"original_mp4": {
+					"width": 480,
+					"height": 480,
+					"mp4": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/giphy.mp4",
+					"mp4_size": 1489514
+				},
+				"original_still": {
+					"url": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/giphy_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 78528
+				},
+				"preview": {
+					"width": 276,
+					"height": 276,
+					"mp4": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/giphy-preview.mp4",
+					"mp4_size": 34652
+				},
+				"preview_gif": {
+					"url": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/giphy-preview.gif",
+					"width": 75,
+					"height": 75,
+					"size": 48685
+				},
+				"preview_webp": {
+					"url": "https://media1.giphy.com/media/LmHWC0DL7exTCeHRzY/giphy-preview.webp",
+					"width": 166,
+					"height": 166,
+					"size": 47236
+				}
+			},
+			"is_video": false,
+			"tags": [
+				"ha",
+				"ceskatelevize",
+				"czechtv",
+				"ceska",
+				"televize",
+				"divadlo",
+				"cimrman",
+				"jary",
+				"cimrmani",
+				"cimrmana",
+				"divadlojarycimrmana",
+				"smich",
+				"souhlas",
+				"vtip",
+				"nesouhlas"
+			],
+			"cta": {
+				"text": "",
+				"link": ""
+			},
+			"featured_tags": [],
+			"embed_url": "https://giphy.com/embed/LmHWC0DL7exTCeHRzY",
+			"relative_url": "/gifs/ceskatelevize-ceska-czechtv-LmHWC0DL7exTCeHRzY",
+			"type": "gif",
+			"index_id": 102203486,
+			"slug": "ceskatelevize-ceska-czechtv-LmHWC0DL7exTCeHRzY",
+			"url": "https://giphy.com/gifs/ceskatelevize-ceska-czechtv-LmHWC0DL7exTCeHRzY",
+			"short_url": "https://gph.is/g/ZYM68ee",
+			"bitly_url": "https://gph.is/g/ZYM68ee",
+			"username": "ceska_televize",
+			"rating": "g",
+			"source_image_url": "/tmp/akka-http-upload4377292425430235376.tmp.mp4",
+			"source_post_url": "",
+			"source_content_url": "",
+			"source_tld": "",
+			"source_domain": "",
+			"source_caption": "",
+			"source_body": "",
+			"has_attribution": false,
+			"is_hidden": false,
+			"is_removed": false,
+			"is_community": false,
+			"is_anonymous": false,
+			"is_featured": false,
+			"is_realtime": false,
+			"is_indexable": false,
+			"is_sticker": false,
+			"is_preserve_size": false,
+			"is_trending": false,
+			"gps_no_trend": false,
+			"create_datetime": "2020-08-26T10:24:00+0000",
+			"update_datetime": "2021-10-25T15:51:21+0000",
+			"trending_datetime": null,
+			"external_media": null,
+			"import_type": null,
+			"user": {
+				"id": 7712188,
+				"username": "ceska_televize",
+				"avatar_url": "https://media.giphy.com/avatars/ceska_televize/uMsP7GgGUoqW.png",
+				"display_name": "Česká televize",
+				"user_type": "partner",
+				"twitter": "czechTV",
+				"is_public": true,
+				"is_verified": false,
+				"is_freelance": false,
+				"is_community": false,
+				"is_upgraded": true,
+				"is_partner_or_artist": true,
+				"suppress_chrome": false,
+				"website_url": "https://www.ceskatelevize.cz/",
+				"twitter_url": "https://twitter.com/czechTV",
+				"facebook_url": "https://www.facebook.com/ceskatelevize",
+				"instagram_url": "https://instagram.com/ceskatelevize",
+				"tumblr_url": "",
+				"tiktok_url": "",
+				"youtube_url": "",
+				"attribution_display_name": "Česká televize",
+				"disable_freelance_popup": false,
+				"name": "Česká televize",
+				"about_bio": "Czech public service TV",
+				"description": "Czech public service TV",
+				"profile_url": "https://giphy.com/ceska_televize"
+			},
+			"alt_text": ""
+		},
+		{
+			"id": "Td99Jw44nRYtgvdhju",
+			"title": "Ceskatelevize Ceska GIF",
+			"images": {
+				"hd": {
+					"width": 1920,
+					"height": 1920,
+					"mp4": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/giphy-hd.mp4",
+					"mp4_size": 7893955
+				},
+				"looping": {
+					"mp4": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/giphy-loop.mp4",
+					"mp4_size": 4617114
+				},
+				"source": {
+					"url": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/source.mp4",
+					"width": 1920,
+					"height": 1920,
+					"size": 6667219
+				},
+				"downsized": {
+					"url": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/giphy-downsized.gif",
+					"width": 384,
+					"height": 384,
+					"size": 1719899
+				},
+				"downsized_large": {
+					"url": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 4354939
+				},
+				"downsized_medium": {
+					"url": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 4354939
+				},
+				"downsized_small": {
+					"width": 246,
+					"height": 246,
+					"mp4": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/giphy-downsized-small.mp4",
+					"mp4_size": 109412
+				},
+				"downsized_still": {
+					"url": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/giphy-downsized_s.gif",
+					"width": 384,
+					"height": 384,
+					"size": 60317
+				},
+				"fixed_height": {
+					"url": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/200.gif",
+					"width": 200,
+					"height": 200,
+					"size": 671933,
+					"mp4": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/200.mp4",
+					"mp4_size": 172699,
+					"webp": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/200.webp",
+					"webp_size": 359026
+				},
+				"fixed_height_downsampled": {
+					"url": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/200_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 141687,
+					"webp": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/200_d.webp",
+					"webp_size": 82526
+				},
+				"fixed_height_small": {
+					"url": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/100.gif",
+					"width": 100,
+					"height": 100,
+					"size": 200532,
+					"mp4": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/100.mp4",
+					"mp4_size": 53917,
+					"webp": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/100.webp",
+					"webp_size": 119356
+				},
+				"fixed_height_small_still": {
+					"url": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/100_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 7543
+				},
+				"fixed_height_still": {
+					"url": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/200_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 22420
+				},
+				"fixed_width": {
+					"url": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/200w.gif",
+					"width": 200,
+					"height": 200,
+					"size": 671933,
+					"mp4": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/200w.mp4",
+					"mp4_size": 172699,
+					"webp": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/200w.webp",
+					"webp_size": 359026
+				},
+				"fixed_width_downsampled": {
+					"url": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/200w_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 141687,
+					"webp": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/200w_d.webp",
+					"webp_size": 82526
+				},
+				"fixed_width_small": {
+					"url": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/100w.gif",
+					"width": 100,
+					"height": 100,
+					"size": 200532,
+					"mp4": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/100w.mp4",
+					"mp4_size": 48090,
+					"webp": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/100w.webp",
+					"webp_size": 119356
+				},
+				"fixed_width_small_still": {
+					"url": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/100w_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 7543
+				},
+				"fixed_width_still": {
+					"url": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/200w_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 22420
+				},
+				"original": {
+					"url": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 4354939,
+					"frames": 32,
+					"hash": "4d114c2f89eaf918d06f4ea0ecd092cc",
+					"mp4": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/giphy.mp4",
+					"mp4_size": 758919,
+					"webp": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/giphy.webp",
+					"webp_size": 1086734
+				},
+				"original_mp4": {
+					"width": 480,
+					"height": 480,
+					"mp4": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/giphy.mp4",
+					"mp4_size": 758919
+				},
+				"original_still": {
+					"url": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/giphy_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 141045
+				},
+				"preview": {
+					"width": 208,
+					"height": 208,
+					"mp4": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/giphy-preview.mp4",
+					"mp4_size": 38115
+				},
+				"preview_gif": {
+					"url": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/giphy-preview.gif",
+					"width": 71,
+					"height": 71,
+					"size": 48866
+				},
+				"preview_webp": {
+					"url": "https://media0.giphy.com/media/Td99Jw44nRYtgvdhju/giphy-preview.webp",
+					"width": 102,
+					"height": 102,
+					"size": 39070
+				}
+			},
+			"is_video": false,
+			"tags": [
+				"ceskatelevize",
+				"czechtv",
+				"ceska",
+				"televize",
+				"divadlo",
+				"cimrman",
+				"jary",
+				"cimrmani",
+				"cimrmana",
+				"divadlojarycimrmana"
+			],
+			"cta": {
+				"text": "",
+				"link": ""
+			},
+			"featured_tags": [],
+			"embed_url": "https://giphy.com/embed/Td99Jw44nRYtgvdhju",
+			"relative_url": "/gifs/ceskatelevize-ceska-czechtv-Td99Jw44nRYtgvdhju",
+			"type": "gif",
+			"index_id": 102203495,
+			"slug": "ceskatelevize-ceska-czechtv-Td99Jw44nRYtgvdhju",
+			"url": "https://giphy.com/gifs/ceskatelevize-ceska-czechtv-Td99Jw44nRYtgvdhju",
+			"short_url": "https://gph.is/g/EGNv83o",
+			"bitly_url": "https://gph.is/g/EGNv83o",
+			"username": "ceska_televize",
+			"rating": "g",
+			"source_image_url": "/tmp/akka-http-upload4189918442408964037.tmp.mp4",
+			"source_post_url": "",
+			"source_content_url": "",
+			"source_tld": "",
+			"source_domain": "",
+			"source_caption": "",
+			"source_body": "",
+			"has_attribution": false,
+			"is_hidden": false,
+			"is_removed": false,
+			"is_community": false,
+			"is_anonymous": false,
+			"is_featured": false,
+			"is_realtime": false,
+			"is_indexable": false,
+			"is_sticker": false,
+			"is_preserve_size": false,
+			"is_trending": false,
+			"gps_no_trend": false,
+			"create_datetime": "2020-08-26T10:24:14+0000",
+			"update_datetime": "2021-10-25T15:51:21+0000",
+			"trending_datetime": null,
+			"external_media": null,
+			"import_type": null,
+			"user": {
+				"id": 7712188,
+				"username": "ceska_televize",
+				"avatar_url": "https://media.giphy.com/avatars/ceska_televize/uMsP7GgGUoqW.png",
+				"display_name": "Česká televize",
+				"user_type": "partner",
+				"twitter": "czechTV",
+				"is_public": true,
+				"is_verified": false,
+				"is_freelance": false,
+				"is_community": false,
+				"is_upgraded": true,
+				"is_partner_or_artist": true,
+				"suppress_chrome": false,
+				"website_url": "https://www.ceskatelevize.cz/",
+				"twitter_url": "https://twitter.com/czechTV",
+				"facebook_url": "https://www.facebook.com/ceskatelevize",
+				"instagram_url": "https://instagram.com/ceskatelevize",
+				"tumblr_url": "",
+				"tiktok_url": "",
+				"youtube_url": "",
+				"attribution_display_name": "Česká televize",
+				"disable_freelance_popup": false,
+				"name": "Česká televize",
+				"about_bio": "Czech public service TV",
+				"description": "Czech public service TV",
+				"profile_url": "https://giphy.com/ceska_televize"
+			},
+			"alt_text": ""
+		},
+		{
+			"id": "hV1MtheAuOlXuTTwD7",
+			"title": "Ceskatelevize Ceska GIF",
+			"images": {
+				"hd": {
+					"width": 1920,
+					"height": 1920,
+					"mp4": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/giphy-hd.mp4",
+					"mp4_size": 13141367
+				},
+				"looping": {
+					"mp4": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/giphy-loop.mp4",
+					"mp4_size": 4155926
+				},
+				"source": {
+					"url": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/source.mp4",
+					"width": 1920,
+					"height": 1920,
+					"size": 10136445
+				},
+				"downsized": {
+					"url": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/giphy-downsized.gif",
+					"width": 283,
+					"height": 283,
+					"size": 1339406
+				},
+				"downsized_large": {
+					"url": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 5394611
+				},
+				"downsized_medium": {
+					"url": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/giphy-downsized-medium.gif",
+					"width": 480,
+					"height": 480,
+					"size": 3846470
+				},
+				"downsized_small": {
+					"width": 202,
+					"height": 202,
+					"mp4": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/giphy-downsized-small.mp4",
+					"mp4_size": 51353
+				},
+				"downsized_still": {
+					"url": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/giphy-downsized_s.gif",
+					"width": 283,
+					"height": 283,
+					"size": 27450
+				},
+				"fixed_height": {
+					"url": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/200.gif",
+					"width": 200,
+					"height": 200,
+					"size": 828728,
+					"mp4": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/200.mp4",
+					"mp4_size": 142809,
+					"webp": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/200.webp",
+					"webp_size": 485934
+				},
+				"fixed_height_downsampled": {
+					"url": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/200_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 120354,
+					"webp": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/200_d.webp",
+					"webp_size": 72130
+				},
+				"fixed_height_small": {
+					"url": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/100.gif",
+					"width": 100,
+					"height": 100,
+					"size": 252352,
+					"mp4": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/100.mp4",
+					"mp4_size": 30098,
+					"webp": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/100.webp",
+					"webp_size": 157034
+				},
+				"fixed_height_small_still": {
+					"url": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/100_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 6644
+				},
+				"fixed_height_still": {
+					"url": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/200_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 18643
+				},
+				"fixed_width": {
+					"url": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/200w.gif",
+					"width": 200,
+					"height": 200,
+					"size": 828728,
+					"mp4": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/200w.mp4",
+					"mp4_size": 142809,
+					"webp": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/200w.webp",
+					"webp_size": 485934
+				},
+				"fixed_width_downsampled": {
+					"url": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/200w_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 120354,
+					"webp": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/200w_d.webp",
+					"webp_size": 72130
+				},
+				"fixed_width_small": {
+					"url": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/100w.gif",
+					"width": 100,
+					"height": 100,
+					"size": 252352,
+					"mp4": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/100w.mp4",
+					"mp4_size": 30098,
+					"webp": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/100w.webp",
+					"webp_size": 157034
+				},
+				"fixed_width_small_still": {
+					"url": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/100w_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 6644
+				},
+				"fixed_width_still": {
+					"url": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/200w_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 18643
+				},
+				"original": {
+					"url": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 5394611,
+					"frames": 50,
+					"hash": "a23eae1e162afa6be4bfb74044b00754",
+					"mp4": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/giphy.mp4",
+					"mp4_size": 1120675,
+					"webp": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/giphy.webp",
+					"webp_size": 1627826
+				},
+				"original_mp4": {
+					"width": 480,
+					"height": 480,
+					"mp4": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/giphy.mp4",
+					"mp4_size": 1120675
+				},
+				"original_still": {
+					"url": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/giphy_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 113394
+				},
+				"preview": {
+					"width": 236,
+					"height": 236,
+					"mp4": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/giphy-preview.mp4",
+					"mp4_size": 31881
+				},
+				"preview_gif": {
+					"url": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/giphy-preview.gif",
+					"width": 84,
+					"height": 84,
+					"size": 49849
+				},
+				"preview_webp": {
+					"url": "https://media4.giphy.com/media/hV1MtheAuOlXuTTwD7/giphy-preview.webp",
+					"width": 108,
+					"height": 108,
+					"size": 35012
+				}
+			},
+			"is_video": false,
+			"tags": [
+				"ceskatelevize",
+				"czechtv",
+				"ceska",
+				"televize",
+				"divadlo",
+				"cimrman",
+				"jary",
+				"nojo",
+				"cimrmani",
+				"cimrmana",
+				"divadlojarycimrmana"
+			],
+			"cta": {
+				"text": "",
+				"link": ""
+			},
+			"featured_tags": [],
+			"embed_url": "https://giphy.com/embed/hV1MtheAuOlXuTTwD7",
+			"relative_url": "/gifs/ceskatelevize-ceska-czechtv-hV1MtheAuOlXuTTwD7",
+			"type": "gif",
+			"index_id": 102203505,
+			"slug": "ceskatelevize-ceska-czechtv-hV1MtheAuOlXuTTwD7",
+			"url": "https://giphy.com/gifs/ceskatelevize-ceska-czechtv-hV1MtheAuOlXuTTwD7",
+			"short_url": "https://gph.is/g/4wzoYNx",
+			"bitly_url": "https://gph.is/g/4wzoYNx",
+			"username": "ceska_televize",
+			"rating": "g",
+			"source_image_url": "/tmp/akka-http-upload5485402344315498036.tmp.mp4",
+			"source_post_url": "",
+			"source_content_url": "",
+			"source_tld": "",
+			"source_domain": "",
+			"source_caption": "",
+			"source_body": "",
+			"has_attribution": false,
+			"is_hidden": false,
+			"is_removed": false,
+			"is_community": false,
+			"is_anonymous": false,
+			"is_featured": false,
+			"is_realtime": false,
+			"is_indexable": false,
+			"is_sticker": false,
+			"is_preserve_size": false,
+			"is_trending": false,
+			"gps_no_trend": false,
+			"create_datetime": "2020-08-26T10:24:34+0000",
+			"update_datetime": "2021-10-25T15:51:21+0000",
+			"trending_datetime": null,
+			"external_media": null,
+			"import_type": null,
+			"user": {
+				"id": 7712188,
+				"username": "ceska_televize",
+				"avatar_url": "https://media.giphy.com/avatars/ceska_televize/uMsP7GgGUoqW.png",
+				"display_name": "Česká televize",
+				"user_type": "partner",
+				"twitter": "czechTV",
+				"is_public": true,
+				"is_verified": false,
+				"is_freelance": false,
+				"is_community": false,
+				"is_upgraded": true,
+				"is_partner_or_artist": true,
+				"suppress_chrome": false,
+				"website_url": "https://www.ceskatelevize.cz/",
+				"twitter_url": "https://twitter.com/czechTV",
+				"facebook_url": "https://www.facebook.com/ceskatelevize",
+				"instagram_url": "https://instagram.com/ceskatelevize",
+				"tumblr_url": "",
+				"tiktok_url": "",
+				"youtube_url": "",
+				"attribution_display_name": "Česká televize",
+				"disable_freelance_popup": false,
+				"name": "Česká televize",
+				"about_bio": "Czech public service TV",
+				"description": "Czech public service TV",
+				"profile_url": "https://giphy.com/ceska_televize"
+			},
+			"alt_text": ""
+		},
+		{
+			"id": "jO1A6ukJ9miKGXTf49",
+			"title": "Chill Ceskatelevize GIF",
+			"images": {
+				"hd": {
+					"width": 1920,
+					"height": 1920,
+					"mp4": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/giphy-hd.mp4",
+					"mp4_size": 15856042
+				},
+				"looping": {
+					"mp4": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/giphy-loop.mp4",
+					"mp4_size": 3997443
+				},
+				"source": {
+					"url": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/source.mp4",
+					"width": 1920,
+					"height": 1920,
+					"size": 11918700
+				},
+				"downsized": {
+					"url": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/giphy-downsized.gif",
+					"width": 268,
+					"height": 268,
+					"size": 1351040
+				},
+				"downsized_large": {
+					"url": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 6321376
+				},
+				"downsized_medium": {
+					"url": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/giphy-downsized-medium.gif",
+					"width": 480,
+					"height": 480,
+					"size": 4082263
+				},
+				"downsized_small": {
+					"width": 192,
+					"height": 192,
+					"mp4": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/giphy-downsized-small.mp4",
+					"mp4_size": 105685
+				},
+				"downsized_still": {
+					"url": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/giphy-downsized_s.gif",
+					"width": 268,
+					"height": 268,
+					"size": 23450
+				},
+				"fixed_height": {
+					"url": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/200.gif",
+					"width": 200,
+					"height": 200,
+					"size": 1034386,
+					"mp4": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/200.mp4",
+					"mp4_size": 266617,
+					"webp": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/200.webp",
+					"webp_size": 505358
+				},
+				"fixed_height_downsampled": {
+					"url": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/200_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 123713,
+					"webp": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/200_d.webp",
+					"webp_size": 66212
+				},
+				"fixed_height_small": {
+					"url": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/100.gif",
+					"width": 100,
+					"height": 100,
+					"size": 333880,
+					"mp4": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/100.mp4",
+					"mp4_size": 88618,
+					"webp": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/100.webp",
+					"webp_size": 182094
+				},
+				"fixed_height_small_still": {
+					"url": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/100_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 6534
+				},
+				"fixed_height_still": {
+					"url": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/200_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 18273
+				},
+				"fixed_width": {
+					"url": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/200w.gif",
+					"width": 200,
+					"height": 200,
+					"size": 1034386,
+					"mp4": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/200w.mp4",
+					"mp4_size": 266617,
+					"webp": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/200w.webp",
+					"webp_size": 505358
+				},
+				"fixed_width_downsampled": {
+					"url": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/200w_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 123713,
+					"webp": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/200w_d.webp",
+					"webp_size": 66212
+				},
+				"fixed_width_small": {
+					"url": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/100w.gif",
+					"width": 100,
+					"height": 100,
+					"size": 333880,
+					"mp4": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/100w.mp4",
+					"mp4_size": 49805,
+					"webp": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/100w.webp",
+					"webp_size": 182094
+				},
+				"fixed_width_small_still": {
+					"url": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/100w_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 6534
+				},
+				"fixed_width_still": {
+					"url": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/200w_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 18273
+				},
+				"original": {
+					"url": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 6321376,
+					"frames": 59,
+					"hash": "3b56e198cd5f3a58ecf3ee522319bc45",
+					"mp4": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/giphy.mp4",
+					"mp4_size": 1309925,
+					"webp": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/giphy.webp",
+					"webp_size": 1484712
+				},
+				"original_mp4": {
+					"width": 480,
+					"height": 480,
+					"mp4": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/giphy.mp4",
+					"mp4_size": 1309925
+				},
+				"original_still": {
+					"url": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/giphy_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 107303
+				},
+				"preview": {
+					"width": 238,
+					"height": 238,
+					"mp4": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/giphy-preview.mp4",
+					"mp4_size": 37306
+				},
+				"preview_gif": {
+					"url": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/giphy-preview.gif",
+					"width": 77,
+					"height": 77,
+					"size": 47997
+				},
+				"preview_webp": {
+					"url": "https://media2.giphy.com/media/jO1A6ukJ9miKGXTf49/giphy-preview.webp",
+					"width": 126,
+					"height": 126,
+					"size": 42776
+				}
+			},
+			"is_video": false,
+			"tags": [
+				"chill",
+				"se",
+				"ceskatelevize",
+				"czechtv",
+				"ceska",
+				"televize",
+				"divadlo",
+				"cimrman",
+				"jary",
+				"cimrmani",
+				"cimrmana",
+				"divadlojarycimrmana",
+				"cepelka",
+				"klid",
+				"uklidni",
+				"zpomal"
+			],
+			"cta": {
+				"text": "",
+				"link": ""
+			},
+			"featured_tags": [],
+			"embed_url": "https://giphy.com/embed/jO1A6ukJ9miKGXTf49",
+			"relative_url": "/gifs/ceskatelevize-ceska-czechtv-jO1A6ukJ9miKGXTf49",
+			"type": "gif",
+			"index_id": 102203517,
+			"slug": "ceskatelevize-ceska-czechtv-jO1A6ukJ9miKGXTf49",
+			"url": "https://giphy.com/gifs/ceskatelevize-ceska-czechtv-jO1A6ukJ9miKGXTf49",
+			"short_url": "https://gph.is/g/aRLA8eA",
+			"bitly_url": "https://gph.is/g/aRLA8eA",
+			"username": "ceska_televize",
+			"rating": "g",
+			"source_image_url": "/tmp/akka-http-upload5585674934182582752.tmp.mp4",
+			"source_post_url": "",
+			"source_content_url": "",
+			"source_tld": "",
+			"source_domain": "",
+			"source_caption": "",
+			"source_body": "",
+			"has_attribution": false,
+			"is_hidden": false,
+			"is_removed": false,
+			"is_community": false,
+			"is_anonymous": false,
+			"is_featured": false,
+			"is_realtime": false,
+			"is_indexable": false,
+			"is_sticker": false,
+			"is_preserve_size": false,
+			"is_trending": false,
+			"gps_no_trend": false,
+			"create_datetime": "2020-08-26T10:24:59+0000",
+			"update_datetime": "2021-10-25T15:51:21+0000",
+			"trending_datetime": null,
+			"external_media": null,
+			"import_type": null,
+			"user": {
+				"id": 7712188,
+				"username": "ceska_televize",
+				"avatar_url": "https://media.giphy.com/avatars/ceska_televize/uMsP7GgGUoqW.png",
+				"display_name": "Česká televize",
+				"user_type": "partner",
+				"twitter": "czechTV",
+				"is_public": true,
+				"is_verified": false,
+				"is_freelance": false,
+				"is_community": false,
+				"is_upgraded": true,
+				"is_partner_or_artist": true,
+				"suppress_chrome": false,
+				"website_url": "https://www.ceskatelevize.cz/",
+				"twitter_url": "https://twitter.com/czechTV",
+				"facebook_url": "https://www.facebook.com/ceskatelevize",
+				"instagram_url": "https://instagram.com/ceskatelevize",
+				"tumblr_url": "",
+				"tiktok_url": "",
+				"youtube_url": "",
+				"attribution_display_name": "Česká televize",
+				"disable_freelance_popup": false,
+				"name": "Česká televize",
+				"about_bio": "Czech public service TV",
+				"description": "Czech public service TV",
+				"profile_url": "https://giphy.com/ceska_televize"
+			},
+			"alt_text": ""
+		},
+		{
+			"id": "h7jkqKMsaPZ3keyiX3",
+			"title": "Ne Ceskatelevize GIF",
+			"images": {
+				"hd": {
+					"width": 1920,
+					"height": 1920,
+					"mp4": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/giphy-hd.mp4",
+					"mp4_size": 6071635
+				},
+				"looping": {
+					"mp4": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/giphy-loop.mp4",
+					"mp4_size": 2623328
+				},
+				"source": {
+					"url": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/source.mp4",
+					"width": 1920,
+					"height": 1920,
+					"size": 6017015
+				},
+				"downsized": {
+					"url": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 1839802
+				},
+				"downsized_large": {
+					"url": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 1839802
+				},
+				"downsized_medium": {
+					"url": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 1839802
+				},
+				"downsized_small": {
+					"width": 336,
+					"height": 336,
+					"mp4": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/giphy-downsized-small.mp4",
+					"mp4_size": 55082
+				},
+				"downsized_still": {
+					"url": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/giphy_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 1839802
+				},
+				"fixed_height": {
+					"url": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/200.gif",
+					"width": 200,
+					"height": 200,
+					"size": 337031,
+					"mp4": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/200.mp4",
+					"mp4_size": 53227,
+					"webp": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/200.webp",
+					"webp_size": 145656
+				},
+				"fixed_height_downsampled": {
+					"url": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/200_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 76918,
+					"webp": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/200_d.webp",
+					"webp_size": 50110
+				},
+				"fixed_height_small": {
+					"url": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/100.gif",
+					"width": 100,
+					"height": 100,
+					"size": 108736,
+					"mp4": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/100.mp4",
+					"mp4_size": 18250,
+					"webp": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/100.webp",
+					"webp_size": 60980
+				},
+				"fixed_height_small_still": {
+					"url": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/100_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 4958
+				},
+				"fixed_height_still": {
+					"url": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/200_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 14616
+				},
+				"fixed_width": {
+					"url": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/200w.gif",
+					"width": 200,
+					"height": 200,
+					"size": 337031,
+					"mp4": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/200w.mp4",
+					"mp4_size": 53227,
+					"webp": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/200w.webp",
+					"webp_size": 145656
+				},
+				"fixed_width_downsampled": {
+					"url": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/200w_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 76918,
+					"webp": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/200w_d.webp",
+					"webp_size": 50110
+				},
+				"fixed_width_small": {
+					"url": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/100w.gif",
+					"width": 100,
+					"height": 100,
+					"size": 108736,
+					"mp4": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/100w.mp4",
+					"mp4_size": 18250,
+					"webp": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/100w.webp",
+					"webp_size": 60980
+				},
+				"fixed_width_small_still": {
+					"url": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/100w_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 4958
+				},
+				"fixed_width_still": {
+					"url": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/200w_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 14616
+				},
+				"original": {
+					"url": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 1839802,
+					"frames": 28,
+					"hash": "0a4555c08b0f494ae56cef25afba6037",
+					"mp4": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/giphy.mp4",
+					"mp4_size": 407935,
+					"webp": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/giphy.webp",
+					"webp_size": 383474
+				},
+				"original_mp4": {
+					"width": 480,
+					"height": 480,
+					"mp4": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/giphy.mp4",
+					"mp4_size": 407935
+				},
+				"original_still": {
+					"url": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/giphy_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 64966
+				},
+				"preview": {
+					"width": 192,
+					"height": 192,
+					"mp4": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/giphy-preview.mp4",
+					"mp4_size": 21084
+				},
+				"preview_gif": {
+					"url": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/giphy-preview.gif",
+					"width": 77,
+					"height": 77,
+					"size": 49420
+				},
+				"preview_webp": {
+					"url": "https://media1.giphy.com/media/h7jkqKMsaPZ3keyiX3/giphy-preview.webp",
+					"width": 190,
+					"height": 190,
+					"size": 49664
+				}
+			},
+			"is_video": false,
+			"tags": [
+				"to",
+				"ne",
+				"ceskatelevize",
+				"czechtv",
+				"ceska",
+				"televize",
+				"divadlo",
+				"cimrman",
+				"jary",
+				"cimrmani",
+				"cimrmana",
+				"divadlojarycimrmana",
+				"uz",
+				"sverak",
+				"nechci",
+				"odmitnuti",
+				"odmitam"
+			],
+			"cta": {
+				"text": "",
+				"link": ""
+			},
+			"featured_tags": [],
+			"embed_url": "https://giphy.com/embed/h7jkqKMsaPZ3keyiX3",
+			"relative_url": "/gifs/ceskatelevize-ceska-czechtv-h7jkqKMsaPZ3keyiX3",
+			"type": "gif",
+			"index_id": 102203526,
+			"slug": "ceskatelevize-ceska-czechtv-h7jkqKMsaPZ3keyiX3",
+			"url": "https://giphy.com/gifs/ceskatelevize-ceska-czechtv-h7jkqKMsaPZ3keyiX3",
+			"short_url": "https://gph.is/g/aNndxBM",
+			"bitly_url": "https://gph.is/g/aNndxBM",
+			"username": "ceska_televize",
+			"rating": "g",
+			"source_image_url": "/tmp/akka-http-upload5303184046099038674.tmp.mp4",
+			"source_post_url": "",
+			"source_content_url": "",
+			"source_tld": "",
+			"source_domain": "",
+			"source_caption": "",
+			"source_body": "",
+			"has_attribution": false,
+			"is_hidden": false,
+			"is_removed": false,
+			"is_community": false,
+			"is_anonymous": false,
+			"is_featured": false,
+			"is_realtime": false,
+			"is_indexable": false,
+			"is_sticker": false,
+			"is_preserve_size": false,
+			"is_trending": false,
+			"gps_no_trend": false,
+			"create_datetime": "2020-08-26T10:25:09+0000",
+			"update_datetime": "2021-10-25T15:51:21+0000",
+			"trending_datetime": null,
+			"external_media": null,
+			"import_type": null,
+			"user": {
+				"id": 7712188,
+				"username": "ceska_televize",
+				"avatar_url": "https://media.giphy.com/avatars/ceska_televize/uMsP7GgGUoqW.png",
+				"display_name": "Česká televize",
+				"user_type": "partner",
+				"twitter": "czechTV",
+				"is_public": true,
+				"is_verified": false,
+				"is_freelance": false,
+				"is_community": false,
+				"is_upgraded": true,
+				"is_partner_or_artist": true,
+				"suppress_chrome": false,
+				"website_url": "https://www.ceskatelevize.cz/",
+				"twitter_url": "https://twitter.com/czechTV",
+				"facebook_url": "https://www.facebook.com/ceskatelevize",
+				"instagram_url": "https://instagram.com/ceskatelevize",
+				"tumblr_url": "",
+				"tiktok_url": "",
+				"youtube_url": "",
+				"attribution_display_name": "Česká televize",
+				"disable_freelance_popup": false,
+				"name": "Česká televize",
+				"about_bio": "Czech public service TV",
+				"description": "Czech public service TV",
+				"profile_url": "https://giphy.com/ceska_televize"
+			},
+			"alt_text": ""
+		},
+		{
+			"id": "jOVXLj1x6Eiqf5vQ2u",
+			"title": "Je Ceskatelevize GIF",
+			"images": {
+				"hd": {
+					"width": 1920,
+					"height": 1920,
+					"mp4": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/giphy-hd.mp4",
+					"mp4_size": 11315323
+				},
+				"looping": {
+					"mp4": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/giphy-loop.mp4",
+					"mp4_size": 3849233
+				},
+				"source": {
+					"url": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/source.mp4",
+					"width": 1920,
+					"height": 1920,
+					"size": 10050811
+				},
+				"downsized": {
+					"url": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/giphy-downsized.gif",
+					"width": 358,
+					"height": 358,
+					"size": 1680218
+				},
+				"downsized_large": {
+					"url": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 4790063
+				},
+				"downsized_medium": {
+					"url": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 4790063
+				},
+				"downsized_small": {
+					"width": 214,
+					"height": 214,
+					"mp4": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/giphy-downsized-small.mp4",
+					"mp4_size": 118738
+				},
+				"downsized_still": {
+					"url": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/giphy-downsized_s.gif",
+					"width": 358,
+					"height": 358,
+					"size": 35409
+				},
+				"fixed_height": {
+					"url": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/200.gif",
+					"width": 200,
+					"height": 200,
+					"size": 772392,
+					"mp4": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/200.mp4",
+					"mp4_size": 220290,
+					"webp": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/200.webp",
+					"webp_size": 423346
+				},
+				"fixed_height_downsampled": {
+					"url": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/200_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 111392,
+					"webp": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/200_d.webp",
+					"webp_size": 68482
+				},
+				"fixed_height_small": {
+					"url": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/100.gif",
+					"width": 100,
+					"height": 100,
+					"size": 252837,
+					"mp4": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/100.mp4",
+					"mp4_size": 75311,
+					"webp": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/100.webp",
+					"webp_size": 156760
+				},
+				"fixed_height_small_still": {
+					"url": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/100_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 5906
+				},
+				"fixed_height_still": {
+					"url": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/200_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 16335
+				},
+				"fixed_width": {
+					"url": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/200w.gif",
+					"width": 200,
+					"height": 200,
+					"size": 772392,
+					"mp4": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/200w.mp4",
+					"mp4_size": 220290,
+					"webp": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/200w.webp",
+					"webp_size": 423346
+				},
+				"fixed_width_downsampled": {
+					"url": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/200w_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 111392,
+					"webp": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/200w_d.webp",
+					"webp_size": 68482
+				},
+				"fixed_width_small": {
+					"url": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/100w.gif",
+					"width": 100,
+					"height": 100,
+					"size": 252837,
+					"mp4": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/100w.mp4",
+					"mp4_size": 48693,
+					"webp": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/100w.webp",
+					"webp_size": 156760
+				},
+				"fixed_width_small_still": {
+					"url": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/100w_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 5906
+				},
+				"fixed_width_still": {
+					"url": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/200w_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 16335
+				},
+				"original": {
+					"url": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 4790063,
+					"frames": 50,
+					"hash": "0d39bea9f99156af90a7ff94d0224c82",
+					"mp4": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/giphy.mp4",
+					"mp4_size": 993452,
+					"webp": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/giphy.webp",
+					"webp_size": 1183826
+				},
+				"original_mp4": {
+					"width": 480,
+					"height": 480,
+					"mp4": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/giphy.mp4",
+					"mp4_size": 993452
+				},
+				"original_still": {
+					"url": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/giphy_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 95860
+				},
+				"preview": {
+					"width": 222,
+					"height": 222,
+					"mp4": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/giphy-preview.mp4",
+					"mp4_size": 36785
+				},
+				"preview_gif": {
+					"url": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/giphy-preview.gif",
+					"width": 73,
+					"height": 73,
+					"size": 49541
+				},
+				"preview_webp": {
+					"url": "https://media0.giphy.com/media/jOVXLj1x6Eiqf5vQ2u/giphy-preview.webp",
+					"width": 132,
+					"height": 132,
+					"size": 47256
+				}
+			},
+			"is_video": false,
+			"tags": [
+				"ale",
+				"je",
+				"ceskatelevize",
+				"czechtv",
+				"ceska",
+				"televize",
+				"divadlo",
+				"cimrman",
+				"jary",
+				"cimrmani",
+				"cimrmana",
+				"divadlojarycimrmana",
+				"vas",
+				"tady",
+				"sverak",
+				"lidi",
+				"weigel",
+				"hodne",
+				"mnozstvi"
+			],
+			"cta": {
+				"text": "",
+				"link": ""
+			},
+			"featured_tags": [],
+			"embed_url": "https://giphy.com/embed/jOVXLj1x6Eiqf5vQ2u",
+			"relative_url": "/gifs/ceskatelevize-ceska-czechtv-jOVXLj1x6Eiqf5vQ2u",
+			"type": "gif",
+			"index_id": 102203538,
+			"slug": "ceskatelevize-ceska-czechtv-jOVXLj1x6Eiqf5vQ2u",
+			"url": "https://giphy.com/gifs/ceskatelevize-ceska-czechtv-jOVXLj1x6Eiqf5vQ2u",
+			"short_url": "https://gph.is/g/Evxjono",
+			"bitly_url": "https://gph.is/g/Evxjono",
+			"username": "ceska_televize",
+			"rating": "g",
+			"source_image_url": "/tmp/akka-http-upload6722289632180742402.tmp.mp4",
+			"source_post_url": "",
+			"source_content_url": "",
+			"source_tld": "",
+			"source_domain": "",
+			"source_caption": "",
+			"source_body": "",
+			"has_attribution": false,
+			"is_hidden": false,
+			"is_removed": false,
+			"is_community": false,
+			"is_anonymous": false,
+			"is_featured": false,
+			"is_realtime": false,
+			"is_indexable": false,
+			"is_sticker": false,
+			"is_preserve_size": false,
+			"is_trending": false,
+			"gps_no_trend": false,
+			"create_datetime": "2020-08-26T10:25:27+0000",
+			"update_datetime": "2021-10-25T15:51:21+0000",
+			"trending_datetime": null,
+			"external_media": null,
+			"import_type": null,
+			"user": {
+				"id": 7712188,
+				"username": "ceska_televize",
+				"avatar_url": "https://media.giphy.com/avatars/ceska_televize/uMsP7GgGUoqW.png",
+				"display_name": "Česká televize",
+				"user_type": "partner",
+				"twitter": "czechTV",
+				"is_public": true,
+				"is_verified": false,
+				"is_freelance": false,
+				"is_community": false,
+				"is_upgraded": true,
+				"is_partner_or_artist": true,
+				"suppress_chrome": false,
+				"website_url": "https://www.ceskatelevize.cz/",
+				"twitter_url": "https://twitter.com/czechTV",
+				"facebook_url": "https://www.facebook.com/ceskatelevize",
+				"instagram_url": "https://instagram.com/ceskatelevize",
+				"tumblr_url": "",
+				"tiktok_url": "",
+				"youtube_url": "",
+				"attribution_display_name": "Česká televize",
+				"disable_freelance_popup": false,
+				"name": "Česká televize",
+				"about_bio": "Czech public service TV",
+				"description": "Czech public service TV",
+				"profile_url": "https://giphy.com/ceska_televize"
+			},
+			"alt_text": ""
+		},
+		{
+			"id": "LmC4CmpbBQqOotwxBH",
+			"title": "Happy Ceskatelevize GIF",
+			"images": {
+				"hd": {
+					"width": 1080,
+					"height": 1080,
+					"mp4": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/giphy-hd.mp4",
+					"mp4_size": 3977448
+				},
+				"looping": {
+					"mp4": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/giphy-loop.mp4",
+					"mp4_size": 3709871
+				},
+				"source": {
+					"url": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/source.mp4",
+					"width": 1920,
+					"height": 1920,
+					"size": 9212356
+				},
+				"downsized": {
+					"url": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/giphy-downsized.gif",
+					"width": 384,
+					"height": 384,
+					"size": 1423382
+				},
+				"downsized_large": {
+					"url": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 2678893
+				},
+				"downsized_medium": {
+					"url": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 2678893
+				},
+				"downsized_small": {
+					"width": 150,
+					"height": 150,
+					"mp4": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/giphy-downsized-small.mp4",
+					"mp4_size": 84944
+				},
+				"downsized_still": {
+					"url": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/giphy-downsized_s.gif",
+					"width": 384,
+					"height": 384,
+					"size": 30350
+				},
+				"fixed_height": {
+					"url": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/200.gif",
+					"width": 200,
+					"height": 200,
+					"size": 524438,
+					"mp4": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/200.mp4",
+					"mp4_size": 131295,
+					"webp": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/200.webp",
+					"webp_size": 221838
+				},
+				"fixed_height_downsampled": {
+					"url": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/200_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 69365,
+					"webp": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/200_d.webp",
+					"webp_size": 43084
+				},
+				"fixed_height_small": {
+					"url": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/100.gif",
+					"width": 100,
+					"height": 100,
+					"size": 182945,
+					"mp4": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/100.mp4",
+					"mp4_size": 45257,
+					"webp": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/100.webp",
+					"webp_size": 72164
+				},
+				"fixed_height_small_still": {
+					"url": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/100_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 8464
+				},
+				"fixed_height_still": {
+					"url": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/200_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 24007
+				},
+				"fixed_width": {
+					"url": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/200w.gif",
+					"width": 200,
+					"height": 200,
+					"size": 524438,
+					"mp4": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/200w.mp4",
+					"mp4_size": 131295,
+					"webp": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/200w.webp",
+					"webp_size": 185224
+				},
+				"fixed_width_downsampled": {
+					"url": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/200w_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 69365,
+					"webp": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/200w_d.webp",
+					"webp_size": 43084
+				},
+				"fixed_width_small": {
+					"url": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/100w.gif",
+					"width": 100,
+					"height": 100,
+					"size": 182945,
+					"mp4": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/100w.mp4",
+					"mp4_size": 45257,
+					"webp": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/100w.webp",
+					"webp_size": 72164
+				},
+				"fixed_width_small_still": {
+					"url": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/100w_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 8464
+				},
+				"fixed_width_still": {
+					"url": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/200w_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 24007
+				},
+				"original": {
+					"url": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 2678893,
+					"frames": 43,
+					"hash": "74e56fe32f8ad0ac00726a4ec0998152",
+					"mp4": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/giphy.mp4",
+					"mp4_size": 713317,
+					"webp": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/giphy.webp",
+					"webp_size": 710222
+				},
+				"original_mp4": {
+					"width": 480,
+					"height": 480,
+					"mp4": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/giphy.mp4",
+					"mp4_size": 713317
+				},
+				"original_still": {
+					"url": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/giphy_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 122904
+				},
+				"preview": {
+					"width": 120,
+					"height": 120,
+					"mp4": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/giphy-preview.mp4",
+					"mp4_size": 39622
+				},
+				"preview_gif": {
+					"url": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/giphy-preview.gif",
+					"width": 100,
+					"height": 100,
+					"size": 34601
+				},
+				"preview_webp": {
+					"url": "https://media0.giphy.com/media/LmC4CmpbBQqOotwxBH/giphy-preview.webp",
+					"width": 100,
+					"height": 100,
+					"size": 28946
+				}
+			},
+			"is_video": false,
+			"tags": [
+				"happy",
+				"rad",
+				"ceskatelevize",
+				"ano",
+				"czechtv",
+				"ceska",
+				"televize",
+				"divadlo",
+				"cimrman",
+				"jary",
+				"cimrmani",
+				"cimrmana",
+				"divadlojarycimrmana",
+				"sverak",
+				"beru",
+				"weigel",
+				"velice",
+				"prijimam"
+			],
+			"cta": {
+				"text": "",
+				"link": ""
+			},
+			"featured_tags": [],
+			"embed_url": "https://giphy.com/embed/LmC4CmpbBQqOotwxBH",
+			"relative_url": "/gifs/ceskatelevize-ceska-czechtv-LmC4CmpbBQqOotwxBH",
+			"type": "gif",
+			"index_id": 102203551,
+			"slug": "ceskatelevize-ceska-czechtv-LmC4CmpbBQqOotwxBH",
+			"url": "https://giphy.com/gifs/ceskatelevize-ceska-czechtv-LmC4CmpbBQqOotwxBH",
+			"short_url": "https://gph.is/g/E0W7DBy",
+			"bitly_url": "https://gph.is/g/E0W7DBy",
+			"username": "ceska_televize",
+			"rating": "g",
+			"source_image_url": "/tmp/akka-http-upload1316979302863050529.tmp.mp4",
+			"source_post_url": "",
+			"source_content_url": "",
+			"source_tld": "",
+			"source_domain": "",
+			"source_caption": "",
+			"source_body": "",
+			"has_attribution": false,
+			"is_hidden": false,
+			"is_removed": false,
+			"is_community": false,
+			"is_anonymous": false,
+			"is_featured": false,
+			"is_realtime": false,
+			"is_indexable": false,
+			"is_sticker": false,
+			"is_preserve_size": false,
+			"is_trending": false,
+			"gps_no_trend": false,
+			"create_datetime": "2020-08-26T10:25:44+0000",
+			"update_datetime": "2021-10-25T15:51:21+0000",
+			"trending_datetime": null,
+			"external_media": null,
+			"import_type": null,
+			"user": {
+				"id": 7712188,
+				"username": "ceska_televize",
+				"avatar_url": "https://media.giphy.com/avatars/ceska_televize/uMsP7GgGUoqW.png",
+				"display_name": "Česká televize",
+				"user_type": "partner",
+				"twitter": "czechTV",
+				"is_public": true,
+				"is_verified": false,
+				"is_freelance": false,
+				"is_community": false,
+				"is_upgraded": true,
+				"is_partner_or_artist": true,
+				"suppress_chrome": false,
+				"website_url": "https://www.ceskatelevize.cz/",
+				"twitter_url": "https://twitter.com/czechTV",
+				"facebook_url": "https://www.facebook.com/ceskatelevize",
+				"instagram_url": "https://instagram.com/ceskatelevize",
+				"tumblr_url": "",
+				"tiktok_url": "",
+				"youtube_url": "",
+				"attribution_display_name": "Česká televize",
+				"disable_freelance_popup": false,
+				"name": "Česká televize",
+				"about_bio": "Czech public service TV",
+				"description": "Czech public service TV",
+				"profile_url": "https://giphy.com/ceska_televize"
+			},
+			"alt_text": ""
+		},
+		{
+			"id": "fwnaode8HCzJtxMRfF",
+			"title": "Happy Ceskatelevize GIF",
+			"images": {
+				"hd": {
+					"width": 1080,
+					"height": 1080,
+					"mp4": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/giphy-hd.mp4",
+					"mp4_size": 3863033
+				},
+				"looping": {
+					"mp4": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/giphy-loop.mp4",
+					"mp4_size": 4007047
+				},
+				"source": {
+					"url": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/source.mp4",
+					"width": 1920,
+					"height": 1920,
+					"size": 7589772
+				},
+				"downsized": {
+					"url": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 1955760
+				},
+				"downsized_large": {
+					"url": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 1955760
+				},
+				"downsized_medium": {
+					"url": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 1955760
+				},
+				"downsized_small": {
+					"width": 150,
+					"height": 150,
+					"mp4": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/giphy-downsized-small.mp4",
+					"mp4_size": 51327
+				},
+				"downsized_still": {
+					"url": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/giphy_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 1955760
+				},
+				"fixed_height": {
+					"url": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/200.gif",
+					"width": 200,
+					"height": 200,
+					"size": 407998,
+					"mp4": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/200.mp4",
+					"mp4_size": 89295,
+					"webp": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/200.webp",
+					"webp_size": 122052
+				},
+				"fixed_height_downsampled": {
+					"url": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/200_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 68749,
+					"webp": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/200_d.webp",
+					"webp_size": 29448
+				},
+				"fixed_height_small": {
+					"url": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/100.gif",
+					"width": 100,
+					"height": 100,
+					"size": 126431,
+					"mp4": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/100.mp4",
+					"mp4_size": 24548,
+					"webp": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/100.webp",
+					"webp_size": 38204
+				},
+				"fixed_height_small_still": {
+					"url": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/100_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 8446
+				},
+				"fixed_height_still": {
+					"url": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/200_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 26890
+				},
+				"fixed_width": {
+					"url": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/200w.gif",
+					"width": 200,
+					"height": 200,
+					"size": 407998,
+					"mp4": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/200w.mp4",
+					"mp4_size": 89295,
+					"webp": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/200w.webp",
+					"webp_size": 98172
+				},
+				"fixed_width_downsampled": {
+					"url": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/200w_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 68749,
+					"webp": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/200w_d.webp",
+					"webp_size": 29448
+				},
+				"fixed_width_small": {
+					"url": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/100w.gif",
+					"width": 100,
+					"height": 100,
+					"size": 126431,
+					"mp4": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/100w.mp4",
+					"mp4_size": 24548,
+					"webp": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/100w.webp",
+					"webp_size": 38204
+				},
+				"fixed_width_small_still": {
+					"url": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/100w_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 8446
+				},
+				"fixed_width_still": {
+					"url": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/200w_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 26890
+				},
+				"original": {
+					"url": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 1955760,
+					"frames": 36,
+					"hash": "a28c6094bcab45048f78f6e29b535328",
+					"mp4": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/giphy.mp4",
+					"mp4_size": 687371,
+					"webp": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/giphy.webp",
+					"webp_size": 487510
+				},
+				"original_mp4": {
+					"width": 480,
+					"height": 480,
+					"mp4": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/giphy.mp4",
+					"mp4_size": 687371
+				},
+				"original_still": {
+					"url": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/giphy_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 153365
+				},
+				"preview": {
+					"width": 150,
+					"height": 150,
+					"mp4": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/giphy-preview.mp4",
+					"mp4_size": 38198
+				},
+				"preview_gif": {
+					"url": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/giphy-preview.gif",
+					"width": 100,
+					"height": 100,
+					"size": 32572
+				},
+				"preview_webp": {
+					"url": "https://media3.giphy.com/media/fwnaode8HCzJtxMRfF/100.webp",
+					"width": 100,
+					"height": 100,
+					"size": 38204
+				}
+			},
+			"is_video": false,
+			"tags": [
+				"happy",
+				"ceskatelevize",
+				"czechtv",
+				"ceska",
+				"televize",
+				"divadlo",
+				"cimrman",
+				"jary",
+				"cimrmani",
+				"cimrmana",
+				"divadlojarycimrmana",
+				"usmev",
+				"mily",
+				"weigel",
+				"pocten"
+			],
+			"cta": {
+				"text": "",
+				"link": ""
+			},
+			"featured_tags": [],
+			"embed_url": "https://giphy.com/embed/fwnaode8HCzJtxMRfF",
+			"relative_url": "/gifs/ceskatelevize-ceska-czechtv-fwnaode8HCzJtxMRfF",
+			"type": "gif",
+			"index_id": 102203559,
+			"slug": "ceskatelevize-ceska-czechtv-fwnaode8HCzJtxMRfF",
+			"url": "https://giphy.com/gifs/ceskatelevize-ceska-czechtv-fwnaode8HCzJtxMRfF",
+			"short_url": "https://gph.is/g/ZYM68X1",
+			"bitly_url": "https://gph.is/g/ZYM68X1",
+			"username": "ceska_televize",
+			"rating": "g",
+			"source_image_url": "/tmp/akka-http-upload1222561741092014517.tmp.mp4",
+			"source_post_url": "",
+			"source_content_url": "",
+			"source_tld": "",
+			"source_domain": "",
+			"source_caption": "",
+			"source_body": "",
+			"has_attribution": false,
+			"is_hidden": false,
+			"is_removed": false,
+			"is_community": false,
+			"is_anonymous": false,
+			"is_featured": false,
+			"is_realtime": false,
+			"is_indexable": false,
+			"is_sticker": false,
+			"is_preserve_size": false,
+			"is_trending": false,
+			"gps_no_trend": false,
+			"create_datetime": "2020-08-26T10:25:58+0000",
+			"update_datetime": "2021-10-25T15:51:21+0000",
+			"trending_datetime": null,
+			"external_media": null,
+			"import_type": null,
+			"user": {
+				"id": 7712188,
+				"username": "ceska_televize",
+				"avatar_url": "https://media.giphy.com/avatars/ceska_televize/uMsP7GgGUoqW.png",
+				"display_name": "Česká televize",
+				"user_type": "partner",
+				"twitter": "czechTV",
+				"is_public": true,
+				"is_verified": false,
+				"is_freelance": false,
+				"is_community": false,
+				"is_upgraded": true,
+				"is_partner_or_artist": true,
+				"suppress_chrome": false,
+				"website_url": "https://www.ceskatelevize.cz/",
+				"twitter_url": "https://twitter.com/czechTV",
+				"facebook_url": "https://www.facebook.com/ceskatelevize",
+				"instagram_url": "https://instagram.com/ceskatelevize",
+				"tumblr_url": "",
+				"tiktok_url": "",
+				"youtube_url": "",
+				"attribution_display_name": "Česká televize",
+				"disable_freelance_popup": false,
+				"name": "Česká televize",
+				"about_bio": "Czech public service TV",
+				"description": "Czech public service TV",
+				"profile_url": "https://giphy.com/ceska_televize"
+			},
+			"alt_text": ""
+		},
+		{
+			"id": "hULB9lvN41VYwSCNzw",
+			"title": "Ceska Televize Ne GIF",
+			"images": {
+				"hd": {
+					"width": 1920,
+					"height": 1920,
+					"mp4": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/giphy-hd.mp4",
+					"mp4_size": 3112145
+				},
+				"looping": {
+					"mp4": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/giphy-loop.mp4",
+					"mp4_size": 3414128
+				},
+				"source": {
+					"url": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/source.mp4",
+					"width": 1920,
+					"height": 1920,
+					"size": 3944694
+				},
+				"downsized": {
+					"url": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 1514998
+				},
+				"downsized_large": {
+					"url": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 1514998
+				},
+				"downsized_medium": {
+					"url": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 1514998
+				},
+				"downsized_small": {
+					"width": 374,
+					"height": 374,
+					"mp4": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/giphy-downsized-small.mp4",
+					"mp4_size": 123936
+				},
+				"downsized_still": {
+					"url": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/giphy_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 1514998
+				},
+				"fixed_height": {
+					"url": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/200.gif",
+					"width": 200,
+					"height": 200,
+					"size": 274296,
+					"mp4": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/200.mp4",
+					"mp4_size": 92339,
+					"webp": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/200.webp",
+					"webp_size": 145102
+				},
+				"fixed_height_downsampled": {
+					"url": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/200_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 96107,
+					"webp": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/200_d.webp",
+					"webp_size": 64838
+				},
+				"fixed_height_small": {
+					"url": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/100.gif",
+					"width": 100,
+					"height": 100,
+					"size": 95837,
+					"mp4": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/100.mp4",
+					"mp4_size": 36922,
+					"webp": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/100.webp",
+					"webp_size": 60752
+				},
+				"fixed_height_small_still": {
+					"url": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/100_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 6202
+				},
+				"fixed_height_still": {
+					"url": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/200_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 16905
+				},
+				"fixed_width": {
+					"url": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/200w.gif",
+					"width": 200,
+					"height": 200,
+					"size": 274296,
+					"mp4": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/200w.mp4",
+					"mp4_size": 92339,
+					"webp": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/200w.webp",
+					"webp_size": 145102
+				},
+				"fixed_width_downsampled": {
+					"url": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/200w_d.gif",
+					"width": 200,
+					"height": 200,
+					"size": 96107,
+					"webp": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/200w_d.webp",
+					"webp_size": 64838
+				},
+				"fixed_width_small": {
+					"url": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/100w.gif",
+					"width": 100,
+					"height": 100,
+					"size": 95837,
+					"mp4": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/100w.mp4",
+					"mp4_size": 36922,
+					"webp": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/100w.webp",
+					"webp_size": 60752
+				},
+				"fixed_width_small_still": {
+					"url": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/100w_s.gif",
+					"width": 100,
+					"height": 100,
+					"size": 6202
+				},
+				"fixed_width_still": {
+					"url": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/200w_s.gif",
+					"width": 200,
+					"height": 200,
+					"size": 16905
+				},
+				"original": {
+					"url": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/giphy.gif",
+					"width": 480,
+					"height": 480,
+					"size": 1514998,
+					"frames": 20,
+					"hash": "dcb4a4e6d30a10bb17479f9dad80cfad",
+					"mp4": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/giphy.mp4",
+					"mp4_size": 329345,
+					"webp": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/giphy.webp",
+					"webp_size": 366976
+				},
+				"original_mp4": {
+					"width": 480,
+					"height": 480,
+					"mp4": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/giphy.mp4",
+					"mp4_size": 329345
+				},
+				"original_still": {
+					"url": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/giphy_s.gif",
+					"width": 480,
+					"height": 480,
+					"size": 94424
+				},
+				"preview": {
+					"width": 192,
+					"height": 192,
+					"mp4": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/giphy-preview.mp4",
+					"mp4_size": 40750
+				},
+				"preview_gif": {
+					"url": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/giphy-preview.gif",
+					"width": 70,
+					"height": 70,
+					"size": 48264
+				},
+				"preview_webp": {
+					"url": "https://media2.giphy.com/media/hULB9lvN41VYwSCNzw/giphy-preview.webp",
+					"width": 140,
+					"height": 140,
+					"size": 49130
+				}
+			},
+			"is_video": false,
+			"tags": [
+				"ne",
+				"ceskatelevize",
+				"czechtv",
+				"divadlo",
+				"cimrman",
+				"jary",
+				"cimrmani",
+				"cimrmana",
+				"divadlojarycimrmana",
+				"ceska televize",
+				"nechci",
+				"djc",
+				"nemam",
+				"tohle",
+				"nebudu",
+				"zapotrebi",
+				"nemusim"
+			],
+			"cta": {
+				"text": "",
+				"link": ""
+			},
+			"featured_tags": [],
+			"embed_url": "https://giphy.com/embed/hULB9lvN41VYwSCNzw",
+			"relative_url": "/gifs/ceskatelevize-czechtv-ceska-televize-hULB9lvN41VYwSCNzw",
+			"type": "gif",
+			"index_id": 102202590,
+			"slug": "ceskatelevize-czechtv-ceska-televize-hULB9lvN41VYwSCNzw",
+			"url": "https://giphy.com/gifs/ceskatelevize-czechtv-ceska-televize-hULB9lvN41VYwSCNzw",
+			"short_url": "https://gph.is/g/EGNvnO3",
+			"bitly_url": "https://gph.is/g/EGNvnO3",
+			"username": "ceska_televize",
+			"rating": "g",
+			"source_image_url": "/tmp/akka-http-upload5278937728096564364.tmp.mp4",
+			"source_post_url": "",
+			"source_content_url": "",
+			"source_tld": "",
+			"source_domain": "",
+			"source_caption": "",
+			"source_body": "",
+			"has_attribution": false,
+			"is_hidden": false,
+			"is_removed": false,
+			"is_community": false,
+			"is_anonymous": false,
+			"is_featured": false,
+			"is_realtime": false,
+			"is_indexable": false,
+			"is_sticker": false,
+			"is_preserve_size": false,
+			"is_trending": false,
+			"gps_no_trend": false,
+			"create_datetime": "2020-08-26T10:04:43+0000",
+			"update_datetime": "2021-10-25T15:51:22+0000",
+			"trending_datetime": null,
+			"external_media": null,
+			"import_type": null,
+			"user": {
+				"id": 7712188,
+				"username": "ceska_televize",
+				"avatar_url": "https://media.giphy.com/avatars/ceska_televize/uMsP7GgGUoqW.png",
+				"display_name": "Česká televize",
+				"user_type": "partner",
+				"twitter": "czechTV",
+				"is_public": true,
+				"is_verified": false,
+				"is_freelance": false,
+				"is_community": false,
+				"is_upgraded": true,
+				"is_partner_or_artist": true,
+				"suppress_chrome": false,
+				"website_url": "https://www.ceskatelevize.cz/",
+				"twitter_url": "https://twitter.com/czechTV",
+				"facebook_url": "https://www.facebook.com/ceskatelevize",
+				"instagram_url": "https://instagram.com/ceskatelevize",
+				"tumblr_url": "",
+				"tiktok_url": "",
+				"youtube_url": "",
+				"attribution_display_name": "Česká televize",
+				"disable_freelance_popup": false,
+				"name": "Česká televize",
+				"about_bio": "Czech public service TV",
+				"description": "Czech public service TV",
+				"profile_url": "https://giphy.com/ceska_televize"
+			},
+			"alt_text": ""
+		}
+	]
+}
