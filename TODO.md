@@ -1,0 +1,14 @@
+ - README.md
+   - https://github.com/m-k-l-s/cimrman_gifs
+   - browser
+   - openpeon
+   - DB schema
+ - doplnit audio
+ - DOC do scriptů
+ - DB
+   - Přidat herce
+   - Přidat název her
+ - Browser
+   - vyhledávání podle herce, hry
+   - otevření YTB v danou timestamp
+ - GH workflow - manual trigger
