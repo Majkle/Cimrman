@@ -3,7 +3,9 @@
    - browser
    - openpeon
    - DB schema
- - doplnit audio
+ - mp3
+   - normalizace hlasitosti
+   - kontrola a oprava chybných stop
  - DOC do scriptů
  - DB
    - Přidat herce
