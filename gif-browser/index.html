@@ -203,9 +203,59 @@
         color: var(--muted);
       }
 
+      .filters-row {
+          display: flex;
+          gap: 1rem;
+          margin-top: 0.75rem;
+          flex-wrap: wrap;
+      }
+
+      .filter-group {
+          display: flex;
+          flex-direction: column;
+          gap: 0.3rem;
+          flex: 1 1 12rem;
+      }
+
+      .filter-group label {
+          font-size: 0.85rem;
+          color: var(--muted);
+          font-weight: 500;
+      }
+
+      select[multiple] {
+          background: var(--panel);
+          color: var(--text);
+          border: 1px solid var(--border);
+          border-radius: 0.5rem;
+          padding: 0.3rem;
+          font-family: inherit;
+          font-size: 0.9rem;
+          outline: none;
+      }
+
+      select[multiple]:focus-visible {
+          border-color: var(--accent);
+      }
+
+      select[multiple] option {
+          padding: 0.3rem 0.5rem;
+          border-radius: 0.25rem;
+          cursor: pointer;
+      }
+
+      select[multiple] option:checked {
+          background-color: var(--border);
+          color: var(--accent);
+      }
+
       @media (max-width: 480px) {
         #grid {
           grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+        }
+
+        .filters-row {
+           flex-direction: column;
         }
       }
     </style>
@@ -231,6 +281,17 @@
           spellcheck="false"
         />
         <div id="stats">Načítám...</div>
+      </div>
+
+      <div class="filters-row">
+        <div class="filter-group">
+          <label for="play-filter">Hra</label>
+          <select id="play-filter" multiple size="3" aria-label="Filtrovat podle hry"></select>
+        </div>
+        <div class="filter-group">
+          <label for="actor-filter">Cimrmanolog</label>
+          <select id="actor-filter" multiple size="3" aria-label="Filtrovat podle herce"></select>
+        </div>
       </div>
     </header>
 

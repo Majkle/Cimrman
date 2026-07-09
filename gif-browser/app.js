@@ -15,6 +15,8 @@ const grid = document.getElementById("grid");
 const stats = document.getElementById("stats");
 const statusEl = document.getElementById("status");
 const toast = document.getElementById("toast");
+const playFilter = document.getElementById("play-filter");
+const actorFilter = document.getElementById("actor-filter");
 
 let allItems = [];
 let filteredItems = [];
@@ -29,8 +31,8 @@ function normalize(value) {
 }
 
 function buildSearchBlob(item) {
-  const tags = item.keywords?.tags ?? [];
-  const texts = item.keywords?.texts ?? [];
+  const tags = item.giphy?.tags ?? [];
+  const texts = item.text?.split(" ") ?? [];
   return normalize([...tags, ...texts].join(" "));
 }
 
@@ -47,7 +49,7 @@ function mp3Url(id) {
 }
 
 function hasAudio(item) {
-  return Boolean(item.youtube);
+  return Boolean(item?.youtube?.timestamp?.start !== "" && item?.youtube?.timestamp?.end !== "");
 }
 
 function showToast(message) {
@@ -105,7 +107,7 @@ function createCard(item) {
 
   const img = document.createElement("img");
   img.src = item.giphy?.webp || gifImageUrl(item.id);
-  img.alt = (item.keywords?.texts ?? []).join(" ") || item.id;
+  img.alt = item.text;
   img.loading = "lazy";
   img.decoding = "async";
   img.width = 200;
@@ -119,8 +121,6 @@ function createCard(item) {
 
   const meta = document.createElement("div");
   meta.className = "meta";
-  const label = (item.keywords?.texts ?? []).join(" ");
-  meta.textContent = label || (item.keywords?.tags ?? []).slice(0, 6).join(", ");
 
   metaRow.appendChild(meta);
   if (hasAudio(item)) {
@@ -145,11 +145,61 @@ function renderGrid(items) {
   statusEl.textContent = items.length === 0 ? "Nic nenalezeno." : "";
 }
 
+function populateFilters() {
+  const plays = [
+    "Akt",
+    "Vyšetřování ztráty třídní knihy",
+    "Hospoda Na Mýtince",
+    "Vražda v salonním coupé",
+    "Němý Bobeš",
+    "Cimrman v říši hudby",
+    "Dlouhý, Široký a Krátkozraký",
+    "Posel z Liptákova",
+    "Lijavec",
+    "Dobytí severního pólu",
+    "Blaník",
+    "Záskok",
+    "Švestka",
+    "Afrika",
+    "České nebe"
+  ];
+  playFilter.innerHTML = plays.map(p => `<option value="${p}">${p}</option>`).join("");
+
+  const actorCounts = new Map();
+  allItems.forEach(item => {
+      item.actors.forEach(actor => {
+        actorCounts.set(actor, (actorCounts.get(actor) || 0) + 1);
+      });
+  });
+
+  actorFilter.innerHTML = [...actorCounts.entries()]
+    .sort((a, b) => {
+      // Sort by frequency (descending), then alphabetically
+      if (b[1] !== a[1]) return b[1] - a[1];
+      return a[0].localeCompare(b[0]);
+    })
+    .map(([actor]) => `<option value="${actor}">${actor}</option>`)
+    .join("");
+
+  playFilter.addEventListener("change", () => applyFilter(searchInput.value));
+  actorFilter.addEventListener("change", () => applyFilter(searchInput.value));
+}
+
 function applyFilter(query) {
   const q = normalize(query.trim());
-  filteredItems = !q
-    ? allItems
-    : allItems.filter((item) => buildSearchBlob(item).includes(q));
+
+  const selectedPlays = Array.from(playFilter.selectedOptions).map(o => o.value);
+  const selectedActors = Array.from(actorFilter.selectedOptions).map(o => o.value);
+
+  filteredItems = allItems.filter((item) => {
+    const matchesSearch = !q ? true : buildSearchBlob(item).includes(q);
+    const matchesPlay = selectedPlays.length === 0 || selectedPlays.includes(item.play);
+    const matchesActor = selectedActors.length === 0 ||
+      (item.actors && item.actors.some(actor => selectedActors.includes(actor)));
+
+    return matchesSearch && matchesPlay && matchesActor;
+  });
+
   renderGrid(filteredItems);
 }
 
@@ -172,6 +222,8 @@ async function loadJson() {
 async function init() {
   try {
     allItems = await loadJson();
+
+    populateFilters();
     filteredItems = allItems;
     renderGrid(filteredItems);
     searchInput.addEventListener("input", debounce((event) => applyFilter(event.target.value), 120));

@@ -8,9 +8,7 @@
    - kontrola a oprava chybných stop
  - DOC do scriptů
  - DB
-   - Přidat herce
-   - Přidat název her
+   - ...
  - Browser
-   - vyhledávání podle herce, hry
    - otevření YTB v danou timestamp
  - GH workflow - manual trigger
