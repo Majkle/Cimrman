@@ -12,8 +12,8 @@ function mp3Url(id) {
   return `${CONFIG.mp3BaseUrl}${id}.mp3`;
 }
 
-function hasAudio(item) {
-  return Boolean(item?.youtube?.timestamp?.start !== "" && item?.youtube?.timestamp?.end !== "");
+function hasMp3(item) {
+  return Boolean(item?.mp3);
 }
 
 function hasYoutube(item) {
@@ -100,11 +100,11 @@ export function createCard(item, { onCopy, onPlayAudio }) {
   meta.className = "meta";
   metaRow.appendChild(meta);
 
-  if (hasAudio(item) || hasYoutube(item)) {
+  if (hasMp3(item) || hasYoutube(item)) {
     const actions = document.createElement("div");
     actions.className = "card-actions";
 
-    if (hasAudio(item)) {
+    if (hasMp3(item)) {
       actions.appendChild(
         createIconButton({
           className: "action-btn audio-btn",
