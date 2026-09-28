@@ -1,6 +1,6 @@
 # Cimrman GIFy
 
-Prohlížeč a databáze GIFů z Divadla Járy Cimrmana.
+[Prohlížeč a databáze GIFů z Divadla Járy Cimrmana](https://majkle.github.io/Cimrman/gif-browser/).
 
 ## Inspirace
 
